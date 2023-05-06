@@ -1,0 +1,1534 @@
+﻿Log file open, 05/06/23 20:00:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JamRunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.044854
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i7-12700H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/games/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-17.00.50:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.05.06-17.00.50:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-17.00.50:063][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-17.00.50:065][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.05.06-17.00.50:065][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.06-17.00.50:066][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.06-17.00.50:066][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:066][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.06-17.00.50:066][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.06-17.00.50:066][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.06-17.00.50:066][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.05.06-17.00.50:067][  0]LogHAL: Display: Platform has ~ 16 GB [16828768256 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.06-17.00.50:067][  0]LogInit: Going up to parent DeviceProfile []
+[2023.05.06-17.00.50:067][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.06-17.00.50:067][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.05.06-17.00.50:068][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-17.00.50:068][  0]LogInit: Computer: DESKTOP-ADUJD0C
+[2023.05.06-17.00.50:068][  0]LogInit: User: Кирилл
+[2023.05.06-17.00.50:068][  0]LogInit: CPU Page size=4096, Cores=14
+[2023.05.06-17.00.50:068][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.06-17.00.50:068][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.05.06-17.00.50:068][  0]LogMemory: Platform Memory Stats for Windows
+[2023.05.06-17.00.50:068][  0]LogMemory: Process Physical Memory: 104.25 MB used, 104.25 MB peak
+[2023.05.06-17.00.50:068][  0]LogMemory: Process Virtual Memory: 101.70 MB used, 101.70 MB peak
+[2023.05.06-17.00.50:068][  0]LogMemory: Physical Memory: 7306.42 MB used,  8742.75 MB free, 16049.16 MB total
+[2023.05.06-17.00.50:068][  0]LogMemory: Virtual Memory: 4722.66 MB used,  134213008.00 MB free, 134217728.00 MB total
+[2023.05.06-17.00.50:069][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.06-17.00.50:091][  0]LogInit: Using OS detected language (ru-RU).
+[2023.05.06-17.00.50:091][  0]LogInit: Using OS detected locale (ru-RU).
+[2023.05.06-17.00.50:091][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2023.05.06-17.00.50:091][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2023.05.06-17.00.50:091][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2023.05.06-17.00.50:091][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2023.05.06-17.00.50:092][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2023.05.06-17.00.50:092][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2023.05.06-17.00.50:092][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2023.05.06-17.00.50:092][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.05.06-17.00.50:092][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.06-17.00.50:112][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.06-17.00.50:112][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.06-17.00.50:183][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.06-17.00.50:183][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.06-17.00.50:283][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (Feature Level 11_0)
+[2023.05.06-17.00.50:283][  0]LogD3D11RHI:       8031/0/8024 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.05.06-17.00.50:316][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2023.05.06-17.00.50:316][  0]LogD3D11RHI:       128/0/8024 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.05.06-17.00.50:318][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.05.06-17.00.50:318][  0]LogD3D11RHI:       0/0/8024 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.06-17.00.50:318][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.05.06-17.00.50:321][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.06-17.00.50:321][  0]LogD3D11RHI:     GPU DeviceId: 0x24a0 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.06-17.00.50:321][  0]LogWindows: EnumDisplayDevices:
+[2023.05.06-17.00.50:321][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2023.05.06-17.00.50:322][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.05.06-17.00.50:322][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.05.06-17.00.50:322][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.05.06-17.00.50:322][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0)
+[2023.05.06-17.00.50:322][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0)
+[2023.05.06-17.00.50:322][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0)
+[2023.05.06-17.00.50:322][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0)
+[2023.05.06-17.00.50:322][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.05.06-17.00.50:322][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti Laptop GPU
+[2023.05.06-17.00.50:322][  0]LogD3D11RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
+[2023.05.06-17.00.50:322][  0]LogD3D11RHI:      Driver Date: 12-5-2022
+[2023.05.06-17.00.50:322][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2023.05.06-17.00.50:384][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.06-17.00.50:408][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.05.06-17.00.50:570][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2023.05.06-17.00.50:575][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2023.05.06-17.00.50:580][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2023.05.06-17.00.50:584][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2023.05.06-17.00.50:589][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2023.05.06-17.00.50:594][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2023.05.06-17.00.50:599][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2023.05.06-17.00.50:604][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2023.05.06-17.00.50:606][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2023.05.06-17.00.50:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2023.05.06-17.00.50:625][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2023.05.06-17.00.50:635][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2023.05.06-17.00.50:635][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2023.05.06-17.00.50:642][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2023.05.06-17.00.50:642][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2023.05.06-17.00.50:645][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2023.05.06-17.00.50:649][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2023.05.06-17.00.50:653][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2023.05.06-17.00.50:656][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2023.05.06-17.00.50:668][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2023.05.06-17.00.50:668][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2023.05.06-17.00.50:669][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.05.06-17.00.50:673][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.06-17.00.50:699][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Intermediate/Shaders/WorkingDirectory/3540/).
+[2023.05.06-17.00.50:699][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Кирилл/AppData/Local/Temp/UnrealShaderWorkingDir/FE2DCBD249632A6550FF99B90590B5B3/'.
+[2023.05.06-17.00.50:700][  0]LogXGEController: Cleaning working directory: C:/Users/Кирилл/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.05.06-17.00.50:700][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.06-17.00.50:700][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.05.06-17.00.50:700][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.05.06-17.00.51:052][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.05.06-17.00.51:085][  0]LogDerivedDataCache: Loaded boot cache 0.03s 73MB C:/Users/Кирилл/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2023.05.06-17.00.51:085][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Кирилл/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2023.05.06-17.00.51:085][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.06-17.00.51:085][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.05.06-17.00.51:085][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.06-17.00.51:085][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.05.06-17.00.51:092][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.05.06-17.00.51:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.06-17.00.51:092][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.05.06-17.00.51:093][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Кирилл/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.06-17.00.51:093][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.06-17.00.51:093][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.05.06-17.00.51:104][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.05.06-17.00.51:106][  0]LogSlate: Using FreeType 2.6.0
+[2023.05.06-17.00.51:106][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.06-17.00.51:137][  0]LogAssetRegistry: FAssetRegistry took 0.0017 seconds to start up
+[2023.05.06-17.00.51:274][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.06-17.00.51:346][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.06-17.00.51:346][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.06-17.00.51:346][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.06-17.00.51:346][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.06-17.00.51:346][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.06-17.00.51:353][  0]LogNetVersion: JamRunner 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2465372428)
+[2023.05.06-17.00.51:578][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.026664 seconds
+[2023.05.06-17.00.51:581][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2023.05.06-17.00.51:581][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2023.05.06-17.00.51:581][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.06-17.00.52:003][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.06-17.00.52:005][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.06-17.00.52:030][  0]SourceControl: Source control is disabled
+[2023.05.06-17.00.52:030][  0]SourceControl: Source control is disabled
+[2023.05.06-17.00.52:031][  0]SourceControl: Source control is disabled
+[2023.05.06-17.00.52:031][  0]SourceControl: Source control is disabled
+[2023.05.06-17.00.52:075][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.06-17.00.52:118][  0]LogOcInput: OculusInput pre-init called
+[2023.05.06-17.00.52:122][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.05.06-17.00.52:122][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.05.06-17.00.52:161][  0]LogEngine: Initializing Engine...
+[2023.05.06-17.00.52:161][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.06-17.00.52:161][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.06-17.00.52:262][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.06-17.00.52:270][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.06-17.00.52:280][  0]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.00.52:286][  0]LogInit: FAudioDevice initialized.
+[2023.05.06-17.00.52:286][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.06-17.00.52:319][  0]LogDerivedDataCache: Saved boot cache 0.03s 73MB C:/Users/Кирилл/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2023.05.06-17.00.52:322][  0]LogInit: Texture streaming: Enabled
+[2023.05.06-17.00.52:334][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.06-17.00.52:334][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.05.06-17.00.52:335][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.05.06-17.00.52:361][  0]LogInit: Transaction tracking system initialized
+[2023.05.06-17.00.52:379][  0]BlueprintLog: New page: Editor Load
+[2023.05.06-17.00.52:423][  0]LocalizationService: Localization service is disabled
+[2023.05.06-17.00.52:544][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/' took 0.00s
+[2023.05.06-17.00.52:544][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.05.06-17.00.52:544][  0]LogCook: Display: Mobile HDR setting 1
+[2023.05.06-17.00.52:657][  0]SourceControl: Source control is disabled
+[2023.05.06-17.00.52:657][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/Kirill/lvl_test_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.06-17.00.52:657][  0]LightingResults: New page: Lighting Build
+[2023.05.06-17.00.52:659][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.00.52:659][  0]MapCheck: New page: Map Check
+[2023.05.06-17.00.52:659][  0]LightingResults: New page: Lighting Build
+[2023.05.06-17.00.52:685][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.06-17.00.52:836][  0]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.00.52:845][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.06-17.00.52:873][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.06-17.00.52:873][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.06-17.00.52:873][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,13ms to complete.
+[2023.05.06-17.00.52:873][  0]LogFileHelpers: Loading map 'lvl_test_1' took 0.216
+[2023.05.06-17.00.52:957][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.00.52:961][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.00.52:969][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.00.52:973][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.00.52:977][  0]LogCollectionManager: Loaded 0 collections in 0.001132 seconds
+[2023.05.06-17.00.52:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Collections/' took 0.00s
+[2023.05.06-17.00.52:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/Developers/Кирилл/Collections/' took 0.00s
+[2023.05.06-17.00.52:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/Collections/' took 0.00s
+[2023.05.06-17.00.52:981][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2023.05.06-17.00.52:986][  0]LogContentBrowser: Native class hierarchy populated in 0.0054 seconds. Added 2863 classes and 680 folders.
+[2023.05.06-17.00.52:990][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2023.05.06-17.00.53:008][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2023.05.06-17.00.53:012][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 1 classes and 2 folders.
+[2023.05.06-17.00.53:076][  0]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.06-17.00.53:077][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.06-17.00.53:080][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.06-17.00.53:113][  0]LogRenderer: Reallocating scene render targets to support 1184x632 Format 10 NumSamples 1 (Frame:1).
+[2023.05.06-17.00.53:193][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.05.06-17.00.53:193][  0]LogLoad: (Engine Initialization) Total time: 3.63 seconds
+[2023.05.06-17.00.53:193][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.06-17.00.53:232][  0]LogAssetRegistry: Asset discovery search completed in 2.0968 seconds
+[2023.05.06-17.00.53:234][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2023.05.06-17.00.53:234][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2023.05.06-17.00.53:235][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.06-17.00.53:255][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.06-17.01.04:494][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.01.18:670][850]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.06-17.01.18:678][850]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_start_actor.BP_start_actor
+[2023.05.06-17.01.18:796][850]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 121 classes and 0 folders.
+[2023.05.06-17.01.19:177][850]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.06-17.01.20:977][957]LogSlate: Window 'BP_start_actor' being destroyed
+[2023.05.06-17.01.24:678][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.01.40:916][ 90]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.06-17.03.21:998][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:998][161]Warning: self: Parse error while importing property values (PinName = self).
+[2023.05.06-17.03.21:998][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:998][161]Warning: Hit: Parse error while importing property values (PinName = Hit).
+[2023.05.06-17.03.21:998][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:998][161]Warning: bBlockingHit: Parse error while importing property values (PinName = bBlockingHit).
+[2023.05.06-17.03.21:998][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:998][161]Warning: bInitialOverlap: Parse error while importing property values (PinName = bInitialOverlap).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: Time: Parse error while importing property values (PinName = Time).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: Distance: Parse error while importing property values (PinName = Distance).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: Location: Parse error while importing property values (PinName = Location).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: ImpactPoint: Parse error while importing property values (PinName = ImpactPoint).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: Normal: Parse error while importing property values (PinName = Normal).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: ImpactNormal: Parse error while importing property values (PinName = ImpactNormal).
+[2023.05.06-17.03.21:999][161]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/Engine.PhysicalMaterial or ObjectProperty /Script/AnimGraphRuntime.AnimNode_RigidBody_Chaos:PhysicalMaterial
+[2023.05.06-17.03.21:999][161]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/Engine.PhysicalMaterial or ObjectProperty /Script/PhysXVehicles.TireConfigMaterialFriction:PhysicalMaterial
+[2023.05.06-17.03.21:999][161]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/Engine.PhysicalMaterial or ObjectProperty /Script/GeometryCollectionEngine.GeometryCollectionComponent:PhysicalMaterial
+[2023.05.06-17.03.21:999][161]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/Engine.PhysicalMaterial or ObjectProperty /Script/GeometryCollectionEngine.SkeletalMeshSimulationComponent:PhysicalMaterial
+[2023.05.06-17.03.21:999][161]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/Engine.PhysicalMaterial or ObjectProperty /Script/GeometryCollectionEngine.StaticMeshSimulationComponent:PhysicalMaterial
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: PhysMat: Parse error while importing property values (PinName = PhysMat).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: HitActor: Parse error while importing property values (PinName = HitActor).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: HitComponent: Parse error while importing property values (PinName = HitComponent).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: HitBoneName: Parse error while importing property values (PinName = HitBoneName).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: BoneName: Parse error while importing property values (PinName = BoneName).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: HitItem: Parse error while importing property values (PinName = HitItem).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: ElementIndex: Parse error while importing property values (PinName = ElementIndex).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: FaceIndex: Parse error while importing property values (PinName = FaceIndex).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: TraceStart: Parse error while importing property values (PinName = TraceStart).
+[2023.05.06-17.03.21:999][161]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.03.21:999][161]Warning: TraceEnd: Parse error while importing property values (PinName = TraceEnd).
+[2023.05.06-17.03.21:999][161]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.05.06-17.03.22:180][161]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.180 s
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: === Handled ensure: ===
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: 
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: Ensure condition failed: ThisPin [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/EdGraphUtilities.cpp] [Line: 38]
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: 
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: Stack: 
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc866cc2a8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc85a9d216 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc85a9d634 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc85a891c0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc811be949 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc811be706 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc81195d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc87a3b62a UE4Editor-Slate.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc87a7191e UE4Editor-Slate.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc7a9bfc08 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc87a03076 UE4Editor-Slate.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc87a73413 UE4Editor-Slate.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffc87a687fe UE4Editor-Slate.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffcc3a24a7c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffcc3a126df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffcc3a27340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffcc3a0edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffcef8be858 USER32.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffcef8be299 USER32.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffcc3a288e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ff769246980 UE4Editor.exe!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ff76925a91c UE4Editor.exe!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ff76925a9fa UE4Editor.exe!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ff76926b92c UE4Editor.exe!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ff76926e60e UE4Editor.exe!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffcf0387604 KERNEL32.DLL!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: [Callstack] 0x00007ffcf18a26a1 ntdll.dll!UnknownFunction []
+[2023.05.06-17.03.22:180][161]LogOutputDevice: Error: 
+[2023.05.06-17.03.22:185][161]LogStats:                SubmitErrorReport -  0.000 s
+[2023.05.06-17.03.22:359][161]LogStats:                    SendNewReport -  0.174 s
+[2023.05.06-17.03.22:359][161]LogStats:             FDebug::EnsureFailed -  0.359 s
+[2023.05.06-17.04.53:771][217]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={ED503FE2-4E3D-1870-5951-4B93DB6A132B}
+[2023.05.06-17.07.20:349][653]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.05.06-17.07.20:349][653]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.05.06-17.07.24:505][806]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.07.24:505][806]Warning: self: Parse error while importing property values (PinName = self).
+[2023.05.06-17.07.24:505][806]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.07.24:505][806]Warning: WorldContextObject: Parse error while importing property values (PinName = WorldContextObject).
+[2023.05.06-17.07.24:505][806]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.07.24:505][806]Warning: PlayerIndex: Parse error while importing property values (PinName = PlayerIndex).
+[2023.05.06-17.07.24:505][806]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.07.24:505][806]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.05.06-17.07.24:506][806]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.07.24:506][806]Warning: self: Parse error while importing property values (PinName = self).
+[2023.05.06-17.07.24:506][806]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.07.24:506][806]Warning: ObjectTypes: Parse error while importing property values (PinName = ObjectTypes).
+[2023.05.06-17.07.24:506][806]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.07.24:506][806]Warning: bTraceComplex: Parse error while importing property values (PinName = bTraceComplex).
+[2023.05.06-17.07.24:506][806]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.07.24:506][806]Warning: HitResult: Parse error while importing property values (PinName = HitResult).
+[2023.05.06-17.07.24:506][806]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.07.24:506][806]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.05.06-17.07.24:506][806]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.07.24:506][806]Warning: Array: Parse error while importing property values (PinName = Array).
+[2023.05.06-17.07.24:506][806]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.07.24:506][806]Warning: [0]: Parse error while importing property values (PinName = [0]).
+[2023.05.06-17.07.24:523][807]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.06-17.07.48:552][151]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.05.06-17.07.48:552][151]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.05.06-17.08.18:506][940]BlueprintLog: New page: Compile BP_start_actor
+[2023.05.06-17.08.18:659][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.05.06-17.08.18:942][955]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actor687CC15F482AD3AC027CCBAD3AEDD7F4.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/BP_start_actor.uasset'
+[2023.05.06-17.08.20:058][ 22]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.08.20:066][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.08.20:066][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.08.20:066][ 22]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:08:20)
+[2023.05.06-17.08.20:067][ 22]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.05.06-17.08.20:068][ 22]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.08.20:072][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003546s)
+[2023.05.06-17.08.20:072][ 22]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.08.20:073][ 22]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2023.05.06-17.08.20:073][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.004574s)
+[2023.05.06-17.08.20:108][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.05.06-17.08.20:110][ 22]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.08.20:113][ 22]LogInit: FAudioDevice initialized.
+[2023.05.06-17.08.20:119][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.08.20:123][ 22]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.08.20:124][ 22]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.08.20
+[2023.05.06-17.08.20:124][ 22]LogWorld: Bringing up level for play took: 0.000801
+[2023.05.06-17.08.20:124][ 22]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.05.06-17.08.20:132][ 22]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.05.06-17.08.20:136][ 22]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 -0,89
+[2023.05.06-17.08.20:136][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.08.20:172][ 23]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2023.05.06-17.08.21:130][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.08.21:130][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.08.21:131][ 72]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.08.21:137][ 72]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.08.21:140][ 72]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.08.21:148][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.08.21:149][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.08.21:212][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.05.06-17.08.21:244][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.05.06-17.08.26:163][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.08.30:558][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.08.30:659][637]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.08.30:667][637]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.08.30:667][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.08.30:667][637]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:08:30)
+[2023.05.06-17.08.30:667][637]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.08.30:669][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002123s)
+[2023.05.06-17.08.30:670][637]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.08.30:670][637]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2023.05.06-17.08.30:670][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.002954s)
+[2023.05.06-17.08.30:717][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.05.06-17.08.30:719][637]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.08.30:722][637]LogInit: FAudioDevice initialized.
+[2023.05.06-17.08.30:728][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.08.30:728][637]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.08.30:729][637]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.08.30
+[2023.05.06-17.08.30:729][637]LogWorld: Bringing up level for play took: 0.000663
+[2023.05.06-17.08.30:729][637]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.05.06-17.08.30:732][637]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 -0,295
+[2023.05.06-17.08.30:732][637]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.08.33:901][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.08.33:901][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.08.33:901][826]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.08.33:907][826]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.08.33:912][826]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.08.33:916][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.08.33:917][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.08.33:955][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.05.06-17.08.34:003][829]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.05.06-17.09.07:207][726]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actor0333191346BEC860A6A0768BAAE3A4B8.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/BP_start_actor.uasset'
+[2023.05.06-17.09.07:473][742]BlueprintLog: New page: Compile BP_start_actor
+[2023.05.06-17.09.07:474][742]LogBlueprint: Error: [Compiler BP_start_actor] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2023.05.06-17.09.07:474][742]LogBlueprint: Error: [Compiler BP_start_actor] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.05.06-17.09.07:603][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.05.06-17.09.26:349][866]BlueprintLog: New page: Compile BP_start_actor
+[2023.05.06-17.09.26:472][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.05.06-17.09.26:678][877]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actorA48A9CA240029F03682D8A9C202D3607.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/BP_start_actor.uasset'
+[2023.05.06-17.09.27:838][944]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.09.27:844][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.09.27:844][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.09.27:844][944]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:09:27)
+[2023.05.06-17.09.27:844][944]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.09.27:846][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002384s)
+[2023.05.06-17.09.27:847][944]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.09.27:847][944]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2023.05.06-17.09.27:847][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003116s)
+[2023.05.06-17.09.27:884][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.05.06-17.09.27:885][944]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.09.27:889][944]LogInit: FAudioDevice initialized.
+[2023.05.06-17.09.27:895][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.09.27:895][944]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.09.27:896][944]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.09.27
+[2023.05.06-17.09.27:897][944]LogWorld: Bringing up level for play took: 0.000699
+[2023.05.06-17.09.27:897][944]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.05.06-17.09.27:898][944]LogBlueprintUserMessages: [BP_landschaft_2] Hello
+[2023.05.06-17.09.27:900][944]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 0,873
+[2023.05.06-17.09.27:900][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.09.31:430][155]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.09.31:430][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.09.31:430][155]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.09.31:436][155]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.09.31:441][155]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.09.31:450][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.09.31:450][155]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.09.31:490][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.05.06-17.09.31:535][158]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.05.06-17.09.45:824][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_landschaft_C (BP_landschaft)
+[2023.05.06-17.09.47:308][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.10.00:486][893]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Kirill/BP_landschaft.BP_landschaft
+[2023.05.06-17.10.09:067][395]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Kirill/BP_abstract_element.BP_abstract_element
+[2023.05.06-17.10.19:049][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.10.32:866][813]BlueprintLog: New page: Compile BP_start_actor
+[2023.05.06-17.10.32:997][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.05.06-17.10.33:289][829]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actor329ADC6E4DD73616CAB4B494B1C9E855.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/BP_start_actor.uasset'
+[2023.05.06-17.10.34:422][897]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.10.34:430][897]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.10.34:430][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.10.34:430][897]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:10:34)
+[2023.05.06-17.10.34:431][897]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.10.34:433][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002570s)
+[2023.05.06-17.10.34:434][897]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.10.34:434][897]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2023.05.06-17.10.34:434][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003469s)
+[2023.05.06-17.10.34:472][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.05.06-17.10.34:474][897]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.10.34:477][897]LogInit: FAudioDevice initialized.
+[2023.05.06-17.10.34:483][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.10.34:484][897]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.10.34:485][897]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.10.34
+[2023.05.06-17.10.34:485][897]LogWorld: Bringing up level for play took: 0.000818
+[2023.05.06-17.10.34:485][897]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.05.06-17.10.34:487][897]LogBlueprintUserMessages: [BP_landschaft_2] Hello
+[2023.05.06-17.10.34:489][897]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 -0,537
+[2023.05.06-17.10.34:489][897]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.10.35:152][936]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.36:218][  0]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.36:968][ 45]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.37:551][ 80]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.38:018][108]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.38:284][124]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.38:668][147]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.39:068][171]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.39:968][225]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.40:785][274]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.41:701][329]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.42:518][378]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.42:701][389]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.42:852][398]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.43:017][408]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.44:218][480]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.44:818][516]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.45:269][543]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.45:769][573]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.10.47:118][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.10.47:118][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.10.47:118][654]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.10.47:124][654]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.10.47:128][654]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.10.47:148][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.10.47:148][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.10.47:193][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.05.06-17.10.47:225][656]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.05.06-17.10.50:409][847]BlueprintLog: New page: Compile BP_start_actor
+[2023.05.06-17.10.50:410][847]LogBlueprint: Error: [Compiler BP_start_actor] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2023.05.06-17.10.50:537][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.05.06-17.10.50:808][862]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actor6262C262456CEC1F95A927BC78CF4889.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/BP_start_actor.uasset'
+[2023.05.06-17.11.02:058][537]BlueprintLog: New page: Compile BP_start_actor
+[2023.05.06-17.11.02:189][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.05.06-17.11.02:411][549]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actorF11270744FF25B6C9F05B09B5B6D0058.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/BP_start_actor.uasset'
+[2023.05.06-17.11.03:727][628]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.11.03:735][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.11.03:735][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.11.03:735][628]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:11:03)
+[2023.05.06-17.11.03:735][628]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.11.03:738][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002252s)
+[2023.05.06-17.11.03:738][628]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.11.03:738][628]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2023.05.06-17.11.03:739][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003085s)
+[2023.05.06-17.11.03:775][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.05.06-17.11.03:777][628]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.11.03:780][628]LogInit: FAudioDevice initialized.
+[2023.05.06-17.11.03:785][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.11.03:786][628]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.11.03:787][628]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.11.03
+[2023.05.06-17.11.03:787][628]LogWorld: Bringing up level for play took: 0.000852
+[2023.05.06-17.11.03:787][628]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.05.06-17.11.03:789][628]LogBlueprintUserMessages: [BP_landschaft_2] Hello
+[2023.05.06-17.11.03:790][628]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 0,765
+[2023.05.06-17.11.03:791][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.11.04:469][668]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.11.05:651][739]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.11.06:552][793]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.11.08:185][891]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.11.09:385][963]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.11.09:385][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.11.09:385][963]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.11.09:390][963]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.11.09:395][963]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.11.09:406][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.11.09:407][963]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.11.09:447][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.05.06-17.11.09:493][966]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.05.06-17.11.12:519][147]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Kirill/BP_object1.BP_object1
+[2023.05.06-17.11.14:100][229]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.11.14:144][229]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Kirill/BP_object1.BP_object1
+[2023.05.06-17.11.53:600][584]BlueprintLog: New page: Compile BP_start_actor
+[2023.05.06-17.11.53:737][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.05.06-17.11.54:887][653]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.11.54:900][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.11.54:900][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.11.54:900][653]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:11:54)
+[2023.05.06-17.11.54:900][653]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.11.54:903][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002670s)
+[2023.05.06-17.11.54:904][653]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.11.54:904][653]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2023.05.06-17.11.54:904][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003701s)
+[2023.05.06-17.11.54:939][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.05.06-17.11.54:941][653]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.11.54:944][653]LogInit: FAudioDevice initialized.
+[2023.05.06-17.11.54:950][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.11.54:950][653]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.11.54:952][653]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.11.54
+[2023.05.06-17.11.54:952][653]LogWorld: Bringing up level for play took: 0.000719
+[2023.05.06-17.11.54:952][653]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.05.06-17.11.54:955][653]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 -0,071
+[2023.05.06-17.11.54:955][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.11.55:554][688]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.11.56:704][757]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.11.57:354][796]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.11.57:787][822]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.11.58:154][844]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.11.58:953][892]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.11.58:953][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.11.58:954][892]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.11.58:959][892]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.11.58:964][892]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.11.58:980][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.11.58:981][892]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.11.59:021][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.05.06-17.11.59:066][895]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.05.06-17.11.59:650][930]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.11.59:661][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.11.59:661][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.11.59:661][930]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:11:59)
+[2023.05.06-17.11.59:661][930]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.11.59:665][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003493s)
+[2023.05.06-17.11.59:665][930]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.11.59:666][930]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2023.05.06-17.11.59:666][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.004261s)
+[2023.05.06-17.11.59:704][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.05.06-17.11.59:706][930]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.11.59:709][930]LogInit: FAudioDevice initialized.
+[2023.05.06-17.11.59:714][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.11.59:715][930]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.11.59:716][930]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.11.59
+[2023.05.06-17.11.59:716][930]LogWorld: Bringing up level for play took: 0.000842
+[2023.05.06-17.11.59:716][930]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.05.06-17.11.59:719][930]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 0,693
+[2023.05.06-17.11.59:720][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.00:454][973]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.12.01:120][ 13]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.12.01:770][ 52]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.12.02:170][ 76]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.12.02:453][ 93]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.12.02:720][109]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft
+[2023.05.06-17.12.03:119][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.03:120][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.12.03:120][133]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.12.03:125][133]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.12.03:130][133]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.12.03:137][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.12.03:137][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.03:176][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.05.06-17.12.03:224][136]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.05.06-17.12.31:237][481]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actorBF8C17EA43E6D3F8200734A5BD2CC25D.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/BP_start_actor.uasset'
+[2023.05.06-17.12.34:196][657]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actorC24AC8FF4F17DF979BB54DB3387B0AA3.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/BP_start_actor.uasset'
+[2023.05.06-17.12.35:098][711]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.12.35:109][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.35:109][711]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.06-17.12.35:109][711]LogPlayLevel: [PlayLevel] Compiling BP_start_actor before play...
+[2023.05.06-17.12.35:244][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.05.06-17.12.35:244][711]LogPlayLevel: PlayLevel: Blueprint regeneration took 135 ms (1 blueprints)
+[2023.05.06-17.12.35:244][711]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:12:35)
+[2023.05.06-17.12.35:245][711]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.12.35:247][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002448s)
+[2023.05.06-17.12.35:248][711]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.12.35:248][711]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2023.05.06-17.12.35:248][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003294s)
+[2023.05.06-17.12.35:290][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.05.06-17.12.35:293][711]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.12.35:295][711]LogInit: FAudioDevice initialized.
+[2023.05.06-17.12.35:301][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.12.35:302][711]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.12.35:303][711]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.12.35
+[2023.05.06-17.12.35:303][711]LogWorld: Bringing up level for play took: 0.000960
+[2023.05.06-17.12.35:303][711]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.05.06-17.12.35:306][711]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 0,281
+[2023.05.06-17.12.35:307][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.36:056][755]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.12.37:406][836]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.12.37:905][866]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.12.38:206][884]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.12.38:506][902]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.12.38:823][921]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.12.39:256][947]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.12.39:607][968]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.12.40:339][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.40:340][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.12.40:340][ 12]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.12.40:345][ 12]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.12.40:351][ 12]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.12.40:356][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.12.40:356][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.40:401][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.05.06-17.12.40:446][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.05.06-17.12.42:880][161]LogEditorViewport: Clicking on Actor (LMB): BP_start_actor_C (BP_start_actor)
+[2023.05.06-17.12.45:185][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.12.45:268][304]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.12.45:279][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.45:280][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.12.45:280][304]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:12:45)
+[2023.05.06-17.12.45:280][304]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.12.45:282][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002274s)
+[2023.05.06-17.12.45:283][304]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.12.45:283][304]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2023.05.06-17.12.45:283][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003011s)
+[2023.05.06-17.12.45:321][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.05.06-17.12.45:323][304]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.12.45:326][304]LogInit: FAudioDevice initialized.
+[2023.05.06-17.12.45:331][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.12.45:331][304]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.12.45:333][304]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.12.45
+[2023.05.06-17.12.45:333][304]LogWorld: Bringing up level for play took: 0.000966
+[2023.05.06-17.12.45:333][304]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.05.06-17.12.45:335][304]LogBlueprintUserMessages: [BP_landschaft_2] Hello
+[2023.05.06-17.12.45:336][304]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 0,31
+[2023.05.06-17.12.45:336][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.45:983][342]LogBlueprintUserMessages: [BP_start_actor_2] StaticMeshActor
+[2023.05.06-17.12.46:900][397]LogBlueprintUserMessages: [BP_start_actor_2] StaticMeshActor
+[2023.05.06-17.12.47:600][439]LogBlueprintUserMessages: [BP_start_actor_2] 
+[2023.05.06-17.12.48:050][466]LogBlueprintUserMessages: [BP_start_actor_2] StaticMeshActor
+[2023.05.06-17.12.48:600][499]LogBlueprintUserMessages: [BP_start_actor_2] StaticMeshActor
+[2023.05.06-17.12.49:733][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.49:733][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.12.49:733][567]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.12.49:738][567]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.12.49:743][567]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.12.49:754][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.12.49:755][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.49:798][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.05.06-17.12.49:842][570]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.05.06-17.12.50:992][639]LogEditorViewport: Clicking on Actor (LMB): BP_start_actor_C (BP_start_actor)
+[2023.05.06-17.12.53:506][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.06-17.12.54:263][835]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.12.54:275][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.54:275][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.12.54:275][835]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:12:54)
+[2023.05.06-17.12.54:276][835]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.12.54:278][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002198s)
+[2023.05.06-17.12.54:279][835]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.12.54:279][835]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2023.05.06-17.12.54:279][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003179s)
+[2023.05.06-17.12.54:318][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.05.06-17.12.54:319][835]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.12.54:324][835]LogInit: FAudioDevice initialized.
+[2023.05.06-17.12.54:329][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.12.54:329][835]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.12.54:330][835]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.12.54
+[2023.05.06-17.12.54:330][835]LogWorld: Bringing up level for play took: 0.000827
+[2023.05.06-17.12.54:330][835]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.05.06-17.12.54:333][835]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 -0,692
+[2023.05.06-17.12.54:334][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.12.54:894][867]LogBlueprintUserMessages: [BP_start_actor_2] StaticMeshActor
+[2023.05.06-17.12.55:960][931]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.12.56:426][959]LogBlueprintUserMessages: [BP_start_actor_2] StaticMeshActor
+[2023.05.06-17.12.57:744][ 38]LogBlueprintUserMessages: [BP_start_actor_2] BP_botschka_C
+[2023.05.06-17.12.59:226][127]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.12.59:693][155]LogBlueprintUserMessages: [BP_start_actor_2] BP_botschka_C
+[2023.05.06-17.13.00:493][203]LogBlueprintUserMessages: [BP_start_actor_2] BP_botschka_C
+[2023.05.06-17.13.01:076][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.01:076][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.13.01:076][238]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.13.01:082][238]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.13.01:087][238]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.13.01:100][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.13.01:100][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.01:143][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.05.06-17.13.01:178][240]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.05.06-17.13.02:795][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.13.02:896][343]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.13.02:906][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.02:906][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.13.02:906][343]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:13:02)
+[2023.05.06-17.13.02:907][343]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.13.02:909][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002117s)
+[2023.05.06-17.13.02:909][343]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.13.02:909][343]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2023.05.06-17.13.02:910][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.002875s)
+[2023.05.06-17.13.02:945][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.05.06-17.13.02:947][343]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.13.02:950][343]LogInit: FAudioDevice initialized.
+[2023.05.06-17.13.02:956][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.13.02:956][343]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.13.02:957][343]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.13.02
+[2023.05.06-17.13.02:957][343]LogWorld: Bringing up level for play took: 0.000863
+[2023.05.06-17.13.02:958][343]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.05.06-17.13.02:961][343]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 -0,066
+[2023.05.06-17.13.02:961][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.04:240][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.04:240][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.13.04:240][419]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.13.04:246][419]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.13.04:250][419]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.13.04:256][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.13.04:256][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.04:293][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.05.06-17.13.04:354][423]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.05.06-17.13.10:388][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.13.17:500][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.13.29:543][931]BlueprintLog: New page: Compile BP_landschaft
+[2023.05.06-17.13.29:690][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.05.06-17.13.30:020][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/BP_landschaft" FILE="../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/Kirill/BP_landschaft.uasset" SILENT=true
+[2023.05.06-17.13.30:073][948]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_landschaftCDB1A4F64A1CD5DB389FBDBE21E9CA53.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/Kirill/BP_landschaft.uasset'
+[2023.05.06-17.13.31:121][ 11]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.13.31:131][ 11]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.31:131][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.13.31:131][ 11]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:13:31)
+[2023.05.06-17.13.31:132][ 11]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.13.31:134][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002160s)
+[2023.05.06-17.13.31:135][ 11]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.13.31:135][ 11]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2023.05.06-17.13.31:135][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.002987s)
+[2023.05.06-17.13.31:172][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.05.06-17.13.31:173][ 11]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.13.31:177][ 11]LogInit: FAudioDevice initialized.
+[2023.05.06-17.13.31:183][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.13.31:183][ 11]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.13.31:184][ 11]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.13.31
+[2023.05.06-17.13.31:185][ 11]LogWorld: Bringing up level for play took: 0.000909
+[2023.05.06-17.13.31:185][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.05.06-17.13.31:188][ 11]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 0,162
+[2023.05.06-17.13.31:188][ 11]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.32:555][ 92]LogBlueprintUserMessages: [BP_start_actor_2] StaticMeshActor
+[2023.05.06-17.13.33:221][132]LogBlueprintUserMessages: [BP_start_actor_2] BP_stena_C
+[2023.05.06-17.13.34:037][181]LogBlueprintUserMessages: [BP_start_actor_2] BP_stena_C
+[2023.05.06-17.13.34:488][208]LogBlueprintUserMessages: [BP_start_actor_2] BP_stena_C
+[2023.05.06-17.13.34:721][222]LogBlueprintUserMessages: [BP_start_actor_2] BP_stena_C
+[2023.05.06-17.13.34:938][235]LogBlueprintUserMessages: [BP_start_actor_2] BP_stena_C
+[2023.05.06-17.13.35:105][245]LogBlueprintUserMessages: [BP_start_actor_2] BP_stena_C
+[2023.05.06-17.13.35:271][255]LogBlueprintUserMessages: [BP_start_actor_2] BP_stena_C
+[2023.05.06-17.13.35:438][265]LogBlueprintUserMessages: [BP_start_actor_2] BP_stena_C
+[2023.05.06-17.13.35:638][277]LogBlueprintUserMessages: [BP_start_actor_2] BP_stena_C
+[2023.05.06-17.13.36:554][332]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.13.37:504][389]LogBlueprintUserMessages: [BP_start_actor_2] BP_stena_C
+[2023.05.06-17.13.38:505][449]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_C
+[2023.05.06-17.13.38:938][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.38:938][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.13.38:938][475]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.13.38:943][475]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.13.38:948][475]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.13.38:961][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.13.38:961][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.39:005][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.05.06-17.13.39:052][478]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.05.06-17.13.39:719][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.13.51:027][194]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actorECCD7EE44003BD26CD6B4C988B473C81.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/BP_start_actor.uasset'
+[2023.05.06-17.13.51:308][211]BlueprintLog: New page: Compile BP_start_actor
+[2023.05.06-17.13.51:439][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.05.06-17.13.52:421][270]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.13.52:432][270]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.52:432][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.13.52:432][270]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:13:52)
+[2023.05.06-17.13.52:433][270]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.13.52:435][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002293s)
+[2023.05.06-17.13.52:435][270]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.13.52:436][270]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2023.05.06-17.13.52:436][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003140s)
+[2023.05.06-17.13.52:473][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.05.06-17.13.52:475][270]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.13.52:478][270]LogInit: FAudioDevice initialized.
+[2023.05.06-17.13.52:485][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.13.52:485][270]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.13.52:486][270]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.13.52
+[2023.05.06-17.13.52:486][270]LogWorld: Bringing up level for play took: 0.000908
+[2023.05.06-17.13.52:486][270]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.05.06-17.13.52:489][270]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 -0,537
+[2023.05.06-17.13.52:489][270]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.13.52:988][299]LogBlueprintUserMessages: [BP_start_actor_2] Floor.StaticMeshComponent0 SM_Template_Map_Floor
+[2023.05.06-17.13.54:113][365]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_2.Cube9 Cube
+[2023.05.06-17.13.55:179][429]LogBlueprintUserMessages: [BP_start_actor_2] BP_object1_C_0.Cube 1M_Cube
+[2023.05.06-17.13.57:463][566]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_2.Cube9 Cube
+[2023.05.06-17.13.58:380][621]LogBlueprintUserMessages: [BP_start_actor_2] Floor.StaticMeshComponent0 SM_Template_Map_Floor
+[2023.05.06-17.13.59:897][712]LogBlueprintUserMessages: [BP_start_actor_2] Floor.StaticMeshComponent0 SM_Template_Map_Floor
+[2023.05.06-17.14.00:763][764]LogBlueprintUserMessages: [BP_start_actor_2] Floor.StaticMeshComponent0 SM_Template_Map_Floor
+[2023.05.06-17.14.01:229][792]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_2.sphere_krai_pravo
+[2023.05.06-17.14.02:030][840]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_2.Cube4 Cube
+[2023.05.06-17.14.02:763][884]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_2.Box_spawn
+[2023.05.06-17.14.03:396][922]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_2.Cube2 Cube
+[2023.05.06-17.14.04:113][965]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_2.Cube2 Cube
+[2023.05.06-17.14.05:196][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.14.05:279][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.14.05:280][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.14.05:280][ 35]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.14.05:285][ 35]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.14.05:289][ 35]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.14.05:298][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.14.05:298][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.14.05:340][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.05.06-17.14.05:384][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.05.06-17.14.12:084][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.14.32:954][692]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.05.06-17.14.32:954][692]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.05.06-17.14.55:648][ 52]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.05.06-17.15.30:080][103]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.05.06-17.15.30:080][103]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.05.06-17.15.54:376][555]LogSlate: Took 0.004113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.05.06-17.15.57:284][728]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.05.06-17.15.57:442][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.05.06-17.15.57:718][737]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/ThirdPersonCharacter3DCCFE9E43411155F5DA56AB4EB7093A.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.05.06-17.16.41:772][377]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/ThirdPersonCharacter356FC84A4B8F4929ED5C6EBC6551A56D.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.05.06-17.16.42:239][405]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.05.06-17.16.42:385][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.05.06-17.17.15:128][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.05.06-17.17.15:247][363]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/lvl_test_1_Auto19DA3E582469AA10172C80B85F410DB8C.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Autosaves/Game/Kirill/lvl_test_1_Auto1.umap'
+[2023.05.06-17.17.15:249][363]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kirill/lvl_test_1' took 0.164
+[2023.05.06-17.17.15:249][363]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.164
+[2023.05.06-17.17.15:251][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_start_actor] ([1] browsable assets)...
+[2023.05.06-17.17.15:251][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_start_actor]
+[2023.05.06-17.17.15:266][363]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actor_Auto1DC59EE0F4A4E65859E4F0F87440C3371.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_start_actor_Auto1.uasset'
+[2023.05.06-17.17.15:266][363]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.05.06-17.18.01:435][121]BlueprintLog: New page: Compile BP_start_actor
+[2023.05.06-17.18.01:567][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.05.06-17.18.01:996][145]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actorF3CB927F4FE5E440613536A7C8D96325.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/BP_start_actor.uasset'
+[2023.05.06-17.19.19:707][428]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.19.19:707][428]Warning: execute: Parse error while importing property values (PinName = execute).
+[2023.05.06-17.19.19:707][428]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.19.19:707][428]Warning: then: Parse error while importing property values (PinName = then).
+[2023.05.06-17.19.19:707][428]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.19.19:707][428]Warning: self: Parse error while importing property values (PinName = self).
+[2023.05.06-17.19.19:707][428]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.19.19:707][428]Warning: InPawn: Parse error while importing property values (PinName = InPawn).
+[2023.05.06-17.19.19:707][428]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.19.19:707][428]Warning: self: Parse error while importing property values (PinName = self).
+[2023.05.06-17.19.19:707][428]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.19.19:707][428]Warning: WorldContextObject: Parse error while importing property values (PinName = WorldContextObject).
+[2023.05.06-17.19.19:707][428]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.19.19:707][428]Warning: PlayerIndex: Parse error while importing property values (PinName = PlayerIndex).
+[2023.05.06-17.19.19:707][428]Warning: Unknown pin type member: bIsUObjectWrapper.
+[2023.05.06-17.19.19:707][428]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2023.05.06-17.20.12:497][567]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.06-17.20.32:204][748]BlueprintLog: New page: Compile BP_start_actor
+[2023.05.06-17.20.32:340][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.05.06-17.20.32:785][773]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/BP_start_actor6EBBEC1E40B9964F5D608A977B412392.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/BP_start_actor.uasset'
+[2023.05.06-17.20.41:773][312]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2023.05.06-17.20.43:962][443]Cmd: DELETE
+[2023.05.06-17.20.43:962][443]Cmd: ACTOR DELETE
+[2023.05.06-17.20.43:963][443]LogEditorActor: Deleted Actor: PlayerStart
+[2023.05.06-17.20.44:007][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.05.06-17.20.44:007][443]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.05.06-17.20.45:263][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.21.15:141][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.21.23:435][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/lvl_test_1" FILE="../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/Kirill/lvl_test_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.06-17.21.23:471][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.06-17.21.23:589][806]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/lvl_test_1FF94631E43FD0C5D3FB5449B08CD2B21.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/Kirill/lvl_test_1.umap'
+[2023.05.06-17.21.23:609][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/lvl_test_1_BuiltData" FILE="../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/Kirill/lvl_test_1_BuiltData.uasset" SILENT=true
+[2023.05.06-17.21.23:625][806]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/lvl_test_1_BuiltDataBBDA7B6941691268FA6A95956F1E2D53.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/Kirill/lvl_test_1_BuiltData.uasset'
+[2023.05.06-17.21.25:696][930]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.21.25:717][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.21.25:717][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.21.25:717][930]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:21:25)
+[2023.05.06-17.21.25:717][930]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.21.25:720][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002583s)
+[2023.05.06-17.21.25:720][930]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.21.25:721][930]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2023.05.06-17.21.25:721][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003509s)
+[2023.05.06-17.21.25:760][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.05.06-17.21.25:762][930]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.21.25:766][930]LogInit: FAudioDevice initialized.
+[2023.05.06-17.21.25:772][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.21.25:773][930]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.21.25:774][930]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.21.25
+[2023.05.06-17.21.25:774][930]LogWorld: Bringing up level for play took: 0.001018
+[2023.05.06-17.21.25:774][930]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.05.06-17.21.25:776][930]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.05.06-17.21.25:778][930]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 0,751
+[2023.05.06-17.21.25:778][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.21.27:583][ 37]LogBlueprintUserMessages: [BP_start_actor_2] Floor.StaticMeshComponent0 SM_Template_Map_Floor
+[2023.05.06-17.21.27:966][ 60]LogBlueprintUserMessages: [BP_landschaft_C_0] Hello
+[2023.05.06-17.21.30:715][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.21.30:716][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.21.30:716][225]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.21.30:721][225]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.21.30:726][225]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.21.30:739][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.21.30:739][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.21.30:779][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.05.06-17.21.30:825][228]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.05.06-17.21.31:825][288]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.21.31:836][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.21.31:836][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.21.31:836][288]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:21:31)
+[2023.05.06-17.21.31:836][288]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.21.31:839][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002421s)
+[2023.05.06-17.21.31:839][288]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.21.31:839][288]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2023.05.06-17.21.31:840][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003280s)
+[2023.05.06-17.21.31:878][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.05.06-17.21.31:880][288]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.21.31:883][288]LogInit: FAudioDevice initialized.
+[2023.05.06-17.21.31:889][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.21.31:889][288]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.21.31:891][288]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.21.31
+[2023.05.06-17.21.31:891][288]LogWorld: Bringing up level for play took: 0.001194
+[2023.05.06-17.21.31:892][288]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.05.06-17.21.31:894][288]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.05.06-17.21.31:895][288]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 0,869
+[2023.05.06-17.21.31:895][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.21.48:612][290]LogBlueprintUserMessages: [BP_start_actor_2] Floor.StaticMeshComponent0 SM_Template_Map_Floor
+[2023.05.06-17.21.50:512][404]LogBlueprintUserMessages: [BP_landschaft_C_1] Hello
+[2023.05.06-17.21.51:929][489]LogBlueprintUserMessages: [BP_landschaft_C_2] Hello
+[2023.05.06-17.21.52:329][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.21.52:330][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.21.52:330][513]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.21.52:335][513]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.21.52:341][513]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.21.52:350][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.21.52:350][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.21.52:394][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.05.06-17.21.52:430][515]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.05.06-17.21.53:646][588]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.21.53:661][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.21.53:662][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.21.53:662][588]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:21:53)
+[2023.05.06-17.21.53:662][588]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.21.53:664][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002318s)
+[2023.05.06-17.21.53:665][588]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.21.53:665][588]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2023.05.06-17.21.53:665][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003114s)
+[2023.05.06-17.21.53:703][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.05.06-17.21.53:705][588]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.21.53:708][588]LogInit: FAudioDevice initialized.
+[2023.05.06-17.21.53:713][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.21.53:714][588]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.21.53:715][588]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.21.53
+[2023.05.06-17.21.53:715][588]LogWorld: Bringing up level for play took: 0.001025
+[2023.05.06-17.21.53:716][588]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.05.06-17.21.53:717][588]LogBlueprintUserMessages: [BP_landschaft_2] Hello
+[2023.05.06-17.21.53:718][588]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.05.06-17.21.53:719][588]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 0,693
+[2023.05.06-17.21.53:719][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.22.18:307][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.22.18:308][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.22.18:308][ 61]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.22.18:313][ 61]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.22.18:318][ 61]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.22.18:330][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.22.18:330][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.22.18:376][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.05.06-17.22.18:418][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.05.06-17.22.33:837][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.22.33:920][991]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.05.06-17.22.34:085][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.05.06-17.22.34:265][997]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/ThirdPersonCharacter3C0FBE5443DAE4D895119183EADBEE3D.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.05.06-17.22.49:315][900]LogEditorViewport: Clicking on Actor (LMB): BP_start_actor_C (BP_start_actor)
+[2023.05.06-17.22.53:430][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-17.22.53:513][151]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.06-17.22.53:524][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.22.53:524][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.06-17.22.53:524][151]PIE: New page: PIE session: lvl_test_1 (6 мая 2023 г., 23:22:53)
+[2023.05.06-17.22.53:524][151]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.22.53:526][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002348s)
+[2023.05.06-17.22.53:527][151]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-17.22.53:527][151]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2023.05.06-17.22.53:527][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_test_1.lvl_test_1 to /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 (0.003159s)
+[2023.05.06-17.22.53:568][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.05.06-17.22.53:570][151]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-17.22.53:573][151]LogInit: FAudioDevice initialized.
+[2023.05.06-17.22.53:579][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.22.53:580][151]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.06-17.22.53:581][151]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_test_1.lvl_test_1 up for play (max tick rate 60) at 2023.05.06-20.22.53
+[2023.05.06-17.22.53:581][151]LogWorld: Bringing up level for play took: 0.000916
+[2023.05.06-17.22.53:581][151]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2023.05.06-17.22.53:583][151]LogBlueprintUserMessages: [BP_landschaft_2] Hello
+[2023.05.06-17.22.53:584][151]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.05.06-17.22.53:585][151]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_test_1 0,559
+[2023.05.06-17.22.53:585][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.23.00:188][546]LogBlueprintUserMessages: [BP_start_actor_2] BP_landschaft_2.Cube9 Cube
+[2023.05.06-17.23.00:572][569]LogBlueprintUserMessages: [BP_landschaft_C_0] Hello
+[2023.05.06-17.23.03:406][739]LogBlueprintUserMessages: [BP_landschaft_C_2] Hello
+[2023.05.06-17.23.06:972][953]LogBlueprintUserMessages: [BP_landschaft_C_4] Hello
+[2023.05.06-17.23.09:405][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.23.09:405][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-17.23.09:405][ 99]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_test_1
+[2023.05.06-17.23.09:410][ 99]LogSlate: Window 'JamRunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.05.06-17.23.09:415][ 99]LogWorld: UWorld::CleanupWorld for lvl_test_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.09:422][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.06-17.23.09:422][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1' with GeneratedClass '/Game/Kirill/lvl_test_1.lvl_test_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_test_1.lvl_test_1:PersistentLevel.lvl_test_1'
+[2023.05.06-17.23.09:466][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.05.06-17.23.09:517][102]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.05.06-17.23.26:225][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.05.06-17.23.29:127][102]LogSlate: Window 'Save Content' being destroyed
+[2023.05.06-17.23.29:149][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/lvl_test_1" FILE="../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/Kirill/lvl_test_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.06-17.23.29:205][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.05.06-17.23.29:328][102]LogSavePackage: Moving '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Saved/lvl_test_1633572B9463036C5CDFA0D9EB994D87E.tmp' to '../../../../../../Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/Kirill/lvl_test_1.umap'
+[2023.05.06-17.23.29:343][102]LogFileHelpers: Saving map 'lvl_test_1' took 0.193
+[2023.05.06-17.23.29:384][102]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.29:417][102]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.06-17.23.29:417][102]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.29:448][102]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.06-17.23.29:448][102]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.29:482][102]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.06-17.23.29:482][102]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.29:511][102]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.06-17.23.29:511][102]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.29:540][102]LogSlate: Window 'JamRunner - Unreal Editor' being destroyed
+[2023.05.06-17.23.29:645][103]Cmd: QUIT_EDITOR
+[2023.05.06-17.23.30:554][103]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.05.06-17.23.30:564][103]LogExit: Preparing to exit.
+[2023.05.06-17.23.30:695][103]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:698][103]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:701][103]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:705][103]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:709][103]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:711][103]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:713][103]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:715][103]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:716][103]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:718][103]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:719][103]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:721][103]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:723][103]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:724][103]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:726][103]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:737][103]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Кирилл/Desktop/jam/Runner-Jam/JamRunner/Content/', and we were unable to create a new request.
+[2023.05.06-17.23.30:753][103]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.05.06-17.23.30:757][103]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-17.23.30:757][103]LogExit: Editor shut down
+[2023.05.06-17.23.30:758][103]LogExit: Transaction tracking system shut down
+[2023.05.06-17.23.30:956][103]LogExit: Object subsystem successfully closed.
+[2023.05.06-17.23.30:972][103]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (672)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2023.05.06-17.23.30:984][103]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2023.05.06-17.23.30:985][103]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2023.05.06-17.23.32:203][103]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2023.05.06-17.23.32:203][103]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2023.05.06-17.23.32:203][103]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2023.05.06-17.23.32:203][103]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2023.05.06-17.23.32:203][103]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2023.05.06-17.23.32:203][103]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2023.05.06-17.23.32:203][103]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2023.05.06-17.23.32:204][103]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2023.05.06-17.23.32:237][103]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2023.05.06-17.23.32:237][103]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2023.05.06-17.23.32:237][103]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2023.05.06-17.23.32:237][103]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2023.05.06-17.23.32:237][103]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2023.05.06-17.23.32:237][103]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2023.05.06-17.23.32:237][103]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2023.05.06-17.23.32:237][103]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2023.05.06-17.23.32:237][103]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2023.05.06-17.23.32:237][103]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2023.05.06-17.23.32:237][103]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2023.05.06-17.23.32:246][103]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.05.06-17.23.32:314][103]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.068 s
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: === Handled ensure: ===
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: 
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: Ensure condition failed: PinHelpers::NumPinsInMemory == 0 || PinHelpers::NumPinsInMemory == 1 [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 1303]
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: 
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: Stack: 
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: [Callstack] 0x00007ffc83741109 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: [Callstack] 0x00007ffc825d770d UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: [Callstack] 0x00007ffc882374c2 UE4Editor-Core.dll!UnknownFunction []
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: [Callstack] 0x00007ff769259c72 UE4Editor.exe!UnknownFunction []
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: [Callstack] 0x00007ff76925a9a2 UE4Editor.exe!UnknownFunction []
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: [Callstack] 0x00007ff76925a9fa UE4Editor.exe!UnknownFunction []
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: [Callstack] 0x00007ff76926b92c UE4Editor.exe!UnknownFunction []
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: [Callstack] 0x00007ff76926e60e UE4Editor.exe!UnknownFunction []
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: [Callstack] 0x00007ffcf0387604 KERNEL32.DLL!UnknownFunction []
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: [Callstack] 0x00007ffcf18a26a1 ntdll.dll!UnknownFunction []
+[2023.05.06-17.23.32:314][103]LogOutputDevice: Error: 
+[2023.05.06-17.23.32:323][103]LogStats:                SubmitErrorReport -  0.000 s
