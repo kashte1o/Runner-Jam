@@ -1,0 +1,610 @@
+﻿Log file open, 05/06/23 19:33:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JamRunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.565468
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-16.33.50:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.05.06-16.33.50:319][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.05.06-16.33.50:320][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.05.06-16.33.50:320][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.05.06-16.33.50:320][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.05.06-16.33.50:320][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.05.06-16.33.50:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-16.33.50:320][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-16.33.50:323][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.06-16.33.50:324][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.06-16.33.50:325][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.06-16.33.50:325][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.05.06-16.33.50:334][  0]LogHAL: Display: Platform has ~ 16 GB [16867045376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.06-16.33.50:334][  0]LogInit: Going up to parent DeviceProfile []
+[2023.05.06-16.33.50:334][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:334][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.06-16.33.50:334][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.06-16.33.50:335][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.06-16.33.50:340][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.05.06-16.33.50:340][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.05.06-16.33.50:340][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.05.06-16.33.50:342][  0]LogInit: Computer: MSI
+[2023.05.06-16.33.50:342][  0]LogInit: User: trifo
+[2023.05.06-16.33.50:342][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.05.06-16.33.50:342][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.06-16.33.50:342][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.05.06-16.33.50:342][  0]LogMemory: Platform Memory Stats for Windows
+[2023.05.06-16.33.50:342][  0]LogMemory: Process Physical Memory: 103.61 MB used, 103.61 MB peak
+[2023.05.06-16.33.50:342][  0]LogMemory: Process Virtual Memory: 100.00 MB used, 100.00 MB peak
+[2023.05.06-16.33.50:342][  0]LogMemory: Physical Memory: 9050.78 MB used,  7034.89 MB free, 16085.67 MB total
+[2023.05.06-16.33.50:342][  0]LogMemory: Virtual Memory: 4694.13 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2023.05.06-16.33.50:373][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.06-16.33.50:620][  0]LogInit: Using OS detected language (ru-RU).
+[2023.05.06-16.33.50:620][  0]LogInit: Using OS detected locale (ru-RU).
+[2023.05.06-16.33.50:622][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2023.05.06-16.33.50:622][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2023.05.06-16.33.50:622][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2023.05.06-16.33.50:622][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2023.05.06-16.33.50:622][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2023.05.06-16.33.50:623][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2023.05.06-16.33.50:623][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2023.05.06-16.33.50:623][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.05.06-16.33.50:644][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.06-16.33.50:715][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.06-16.33.50:715][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.06-16.33.52:684][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.06-16.33.52:684][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.06-16.33.52:782][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (Feature Level 11_0)
+[2023.05.06-16.33.52:782][  0]LogD3D11RHI:       3990/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.05.06-16.33.52:827][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2023.05.06-16.33.52:827][  0]LogD3D11RHI:       128/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.05.06-16.33.52:829][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.05.06-16.33.52:829][  0]LogD3D11RHI:       0/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.06-16.33.52:829][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.05.06-16.33.52:836][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.06-16.33.52:836][  0]LogD3D11RHI:     GPU DeviceId: 0x25a0 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.06-16.33.52:836][  0]LogWindows: EnumDisplayDevices:
+[2023.05.06-16.33.52:837][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2023.05.06-16.33.52:837][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.05.06-16.33.52:837][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.05.06-16.33.52:837][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.05.06-16.33.52:837][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2023.05.06-16.33.52:837][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.05.06-16.33.52:837][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2023.05.06-16.33.52:837][  0]LogD3D11RHI:      Driver Date: Unknown
+[2023.05.06-16.33.52:837][  0]LogRHI: Texture pool is 2793 MB (70% of 3990 MB)
+[2023.05.06-16.33.52:886][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.06-16.33.52:903][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.05.06-16.33.53:166][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2023.05.06-16.33.53:173][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2023.05.06-16.33.53:181][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2023.05.06-16.33.53:188][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2023.05.06-16.33.53:202][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2023.05.06-16.33.53:210][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2023.05.06-16.33.53:219][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2023.05.06-16.33.53:226][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2023.05.06-16.33.53:231][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2023.05.06-16.33.53:268][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2023.05.06-16.33.53:272][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2023.05.06-16.33.53:301][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2023.05.06-16.33.53:301][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2023.05.06-16.33.53:310][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2023.05.06-16.33.53:310][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2023.05.06-16.33.53:316][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2023.05.06-16.33.53:324][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2023.05.06-16.33.53:331][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2023.05.06-16.33.53:344][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2023.05.06-16.33.53:367][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2023.05.06-16.33.53:367][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2023.05.06-16.33.53:367][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.05.06-16.33.53:417][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.06-16.33.53:545][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Intermediate/Shaders/WorkingDirectory/13348/).
+[2023.05.06-16.33.53:545][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/trifo/AppData/Local/Temp/UnrealShaderWorkingDir/3F3D25DC4448A96FB6ACA291A2BC850A/'.
+[2023.05.06-16.33.53:546][  0]LogXGEController: Cleaning working directory: C:/Users/trifo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.05.06-16.33.53:546][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.06-16.33.53:547][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.05.06-16.33.53:547][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.05.06-16.33.55:852][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.05.06-16.33.55:950][  0]LogDerivedDataCache: Loaded boot cache 0.10s 73MB C:/Users/trifo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2023.05.06-16.33.55:950][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/trifo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2023.05.06-16.33.55:950][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.06-16.33.55:950][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.05.06-16.33.55:950][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.06-16.33.55:950][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.05.06-16.33.55:971][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.05.06-16.33.55:971][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.06-16.33.55:971][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.05.06-16.33.55:972][  0]LogDerivedDataCache: Using Local data cache path C:/Users/trifo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.06-16.33.55:972][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.06-16.33.55:972][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.05.06-16.33.55:988][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.05.06-16.33.55:992][  0]LogSlate: Using FreeType 2.6.0
+[2023.05.06-16.33.56:005][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.06-16.33.56:125][  0]LogAssetRegistry: FAssetRegistry took 0.0046 seconds to start up
+[2023.05.06-16.33.56:440][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.06-16.33.56:694][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.06-16.33.56:694][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.06-16.33.56:694][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.06-16.33.56:694][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.06-16.33.56:694][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.06-16.33.56:734][  0]LogNetVersion: JamRunner 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2465372428)
+[2023.05.06-16.33.57:621][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.042710 seconds
+[2023.05.06-16.33.57:626][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2023.05.06-16.33.57:626][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2023.05.06-16.33.57:626][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.06-16.33.59:530][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.06-16.33.59:536][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.06-16.33.59:649][  0]SourceControl: Source control is disabled
+[2023.05.06-16.33.59:649][  0]SourceControl: Source control is disabled
+[2023.05.06-16.33.59:660][  0]SourceControl: Source control is disabled
+[2023.05.06-16.33.59:664][  0]SourceControl: Source control is disabled
+[2023.05.06-16.33.59:676][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.06-16.33.59:676][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.06-16.33.59:871][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.06-16.34.00:099][  0]LogOcInput: OculusInput pre-init called
+[2023.05.06-16.34.00:111][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.05.06-16.34.00:111][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.05.06-16.34.00:238][  0]LogEngine: Initializing Engine...
+[2023.05.06-16.34.00:241][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.06-16.34.00:244][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2023.05.06-16.34.00:576][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.06-16.34.00:618][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.06-16.34.00:637][  0]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.05.06-16.34.00:830][  0]LogInit: FAudioDevice initialized.
+[2023.05.06-16.34.00:830][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.06-16.34.00:871][  0]LogDerivedDataCache: Saved boot cache 0.04s 73MB C:/Users/trifo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2023.05.06-16.34.00:874][  0]LogInit: Texture streaming: Enabled
+[2023.05.06-16.34.00:893][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.06-16.34.00:893][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.05.06-16.34.00:895][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.05.06-16.34.00:942][  0]LogInit: Transaction tracking system initialized
+[2023.05.06-16.34.01:012][  0]BlueprintLog: New page: Editor Load
+[2023.05.06-16.34.01:151][  0]LocalizationService: Localization service is disabled
+[2023.05.06-16.34.01:284][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.06-16.34.01:285][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.06-16.34.01:676][  0]LogFileCache: Scanning file cache for directory 'C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/' took 0.01s
+[2023.05.06-16.34.01:676][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.05.06-16.34.01:676][  0]LogCook: Display: Mobile HDR setting 1
+[2023.05.06-16.34.02:031][  0]SourceControl: Source control is disabled
+[2023.05.06-16.34.02:032][  0]Cmd: MAP LOAD FILE="../../../../../../Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_test_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.06-16.34.02:032][  0]LightingResults: New page: Lighting Build
+[2023.05.06-16.34.02:037][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-16.34.02:039][  0]MapCheck: New page: Map Check
+[2023.05.06-16.34.02:039][  0]LightingResults: New page: Lighting Build
+[2023.05.06-16.34.02:069][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.06-16.34.02:677][  0]LogAIModule: Creating AISystem for world lvl_test_1
+[2023.05.06-16.34.02:699][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.06-16.34.02:727][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.05.06-16.34.02:727][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.06-16.34.02:727][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,326ms to complete.
+[2023.05.06-16.34.02:727][  0]LogFileHelpers: Loading map 'lvl_test_1' took 0.695
+[2023.05.06-16.34.02:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-16.34.02:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-16.34.02:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-16.34.02:896][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.06-16.34.02:913][  0]LogCollectionManager: Loaded 0 collections in 0.001585 seconds
+[2023.05.06-16.34.02:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Collections/' took 0.00s
+[2023.05.06-16.34.02:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Developers/trifo/Collections/' took 0.00s
+[2023.05.06-16.34.02:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Collections/' took 0.00s
+[2023.05.06-16.34.02:936][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2023.05.06-16.34.02:945][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2863 classes and 680 folders.
+[2023.05.06-16.34.02:955][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.05.06-16.34.03:244][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.05.06-16.34.03:257][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.05.06-16.34.03:367][  0]LogSlate: Took 0.011568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.06-16.34.03:373][  0]LogSlate: Took 0.004276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.06-16.34.03:389][  0]LogSlate: Took 0.011750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.06-16.34.03:499][  0]LogRenderer: Reallocating scene render targets to support 1120x568 Format 10 NumSamples 1 (Frame:1).
+[2023.05.06-16.34.03:594][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.05.06-16.34.03:594][  0]LogLoad: (Engine Initialization) Total time: 17.63 seconds
+[2023.05.06-16.34.03:594][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.06-16.34.03:667][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.06-16.34.04:099][  9]LogAssetRegistry: Asset discovery search completed in 7.9745 seconds
+[2023.05.06-16.34.04:102][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000318 seconds (found 0 objects)
+[2023.05.06-16.34.04:102][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000365 seconds (updated 0 objects)
+[2023.05.06-16.34.07:708][224]LogSlate: Took 0.004611 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.06-16.34.16:631][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-16.34.19:537][757]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.06-16.34.19:551][757]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Modelling/Jam/jump.fbx)
+[2023.05.06-16.34.19:596][757]LogFbx: Loading FBX Scene from ../../../../../../Modelling/Jam/jump.fbx
+[2023.05.06-16.34.19:622][757]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.06-16.34.22:882][757]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(0) persRig
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(1) Bone
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(2) Bone_002
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(3) Bone_003
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(4) Bone_001
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(5) Bone_004
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(6) Bone_005
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(7) Bone_006
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(8) Bone_007
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(9) Bone_008
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(10) Bone_009
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(0) persRig
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(1) Bone
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(2) Bone_002
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(3) Bone_003
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(4) Bone_001
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(5) Bone_004
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(6) Bone_005
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(7) Bone_006
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(8) Bone_007
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(9) Bone_008
+[2023.05.06-16.34.22:911][757]LogFbx: SortedLinks :(10) Bone_009
+[2023.05.06-16.34.22:912][757]LogFbx: Parsing AnimStack run
+[2023.05.06-16.34.22:914][757]LogLinker: Failed to load '/Game/Kirill/Character/jump_run': Can't find file.
+[2023.05.06-16.34.22:915][757]LogLinker: Failed to load '/Game/Kirill/Character/jump_run': Can't find file.
+[2023.05.06-16.34.23:084][757]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Kirill/Character/jump_run.jump_run
+[2023.05.06-16.34.23:085][757]LogAnimationCompression: Recompressing (AnimSequence /Game/Kirill/Character/jump_run.jump_run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2023.05.06-16.34.23:091][757]LogFbx: Parsing AnimStack jump
+[2023.05.06-16.34.23:091][757]LogLinker: Failed to load '/Game/Kirill/Character/jump_jump': Can't find file.
+[2023.05.06-16.34.23:091][757]LogLinker: Failed to load '/Game/Kirill/Character/jump_jump': Can't find file.
+[2023.05.06-16.34.23:477][757]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Kirill/Character/jump_jump.jump_jump
+[2023.05.06-16.34.23:477][757]LogAnimationCompression: Recompressing (AnimSequence /Game/Kirill/Character/jump_jump.jump_jump) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2023.05.06-16.34.28:768][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.06-16.34.28:924][ 52]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Kirill/Character/jump_jump.jump_jump
+[2023.05.06-16.34.28:939][ 52]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.05.06-16.34.29:153][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.06-16.34.29:158][ 52]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2023.05.06-16.34.29:228][ 52]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2023.05.06-16.34.29:468][ 52]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.06-16.34.34:746][368]LogSlate: Window 'jump_jump' being destroyed
+[2023.05.06-16.34.34:750][368]LogSlate: Window 'jump_jump' being destroyed
+[2023.05.06-16.34.34:750][368]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-16.34.34:772][368]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-16.34.34:832][368]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.06-16.34.48:240][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.05.06-16.34.48:353][167]LogSavePackage: Moving '../../../../../../Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_test_1F0212DC34D27F6C44CC42DBBD0607769.tmp' to '../../../../../../Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_test_1.umap'
+[2023.05.06-16.34.48:372][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/lvl_test_1_BuiltData" FILE="../../../../../../Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_test_1_BuiltData.uasset" SILENT=true
+[2023.05.06-16.34.48:390][167]LogSavePackage: Moving '../../../../../../Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_test_1_BuiltData0EDFCBC14A0F0086693B3096E1983A01.tmp' to '../../../../../../Users/trifo/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_test_1_BuiltData.uasset'
