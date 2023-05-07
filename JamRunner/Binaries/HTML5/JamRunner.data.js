@@ -18,7 +18,7 @@ Module.expectedDataFileDownloads++;
     } else {
       throw 'using preloaded data can only be done on a web page or in a web worker';
     }
-    var PACKAGE_NAME = 'C:/Users/chemi/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Binaries/HTML5/JamRunner.data';
+    var PACKAGE_NAME = 'C:/build/JamRunner/Binaries/HTML5/JamRunner.data';
     var REMOTE_PACKAGE_BASE = 'JamRunner.data';
     if (typeof Module['locateFilePackage'] === 'function' && !Module['locateFile']) {
       Module['locateFile'] = Module['locateFilePackage'];
@@ -149,10 +149,10 @@ Module['FS_createPath']('/JamRunner/Content', 'Paks', true, true);
           for (var i = 0; i < files.length; ++i) {
             DataRequest.prototype.requests[files[i].filename].onload();
           }
-              Module['removeRunDependency']('datafile_C:/Users/chemi/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Binaries/HTML5/JamRunner.data');
+              Module['removeRunDependency']('datafile_C:/build/JamRunner/Binaries/HTML5/JamRunner.data');
 
     };
-    Module['addRunDependency']('datafile_C:/Users/chemi/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Binaries/HTML5/JamRunner.data');
+    Module['addRunDependency']('datafile_C:/build/JamRunner/Binaries/HTML5/JamRunner.data');
   
     if (!Module.preloadResults) Module.preloadResults = {};
   
@@ -173,6 +173,6 @@ Module['FS_createPath']('/JamRunner/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 91, "filename": "/UE4CommandLine.txt"}, {"start": 91, "audio": 0, "end": 59368456, "filename": "/JamRunner/Content/Paks/JamRunner-HTML5.pak"}], "remote_package_size": 59368456, "package_uuid": "c0dee67d-8075-41a1-be0d-a53341e94a88"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 91, "filename": "/UE4CommandLine.txt"}, {"start": 91, "audio": 0, "end": 89400906, "filename": "/JamRunner/Content/Paks/JamRunner-HTML5.pak"}], "remote_package_size": 89400906, "package_uuid": "079a7e2d-5d7f-4293-acf0-796df737141b"});
 
 })();
