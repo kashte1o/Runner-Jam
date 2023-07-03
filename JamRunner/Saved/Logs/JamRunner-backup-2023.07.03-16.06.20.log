@@ -1,0 +1,1805 @@
+﻿Log file open, 07/03/23 18:07:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JamRunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.137668
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i7-12650H, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.07.03-15.07.18:779][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.07.03-15.07.18:779][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.07.03-15.07.18:780][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.07.03-15.07.18:780][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.07.03-15.07.18:782][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.07.03-15.07.18:782][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.07.03-15.07.18:784][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.07.03-15.07.18:784][  0]LogInit: Selected Device Profile: [Windows]
+[2023.07.03-15.07.18:784][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.07.03-15.07.18:793][  0]LogHAL: Display: Platform has ~ 16 GB [16866488320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.07.03-15.07.18:793][  0]LogInit: Going up to parent DeviceProfile []
+[2023.07.03-15.07.18:793][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.07.03-15.07.18:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Scalability.ini]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.07.03-15.07.18:794][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.07.03-15.07.18:800][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.07.03-15.07.18:800][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.07.03-15.07.18:800][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Config/Windows/Engine.ini]
+[2023.07.03-15.07.18:800][  0]LogInit: Computer: KASNOTE
+[2023.07.03-15.07.18:800][  0]LogInit: User: aleks
+[2023.07.03-15.07.18:800][  0]LogInit: CPU Page size=4096, Cores=10
+[2023.07.03-15.07.18:800][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.07.03-15.07.18:800][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.07.03-15.07.18:800][  0]LogMemory: Platform Memory Stats for Windows
+[2023.07.03-15.07.18:800][  0]LogMemory: Process Physical Memory: 104.85 MB used, 104.85 MB peak
+[2023.07.03-15.07.18:800][  0]LogMemory: Process Virtual Memory: 100.87 MB used, 100.87 MB peak
+[2023.07.03-15.07.18:800][  0]LogMemory: Physical Memory: 11852.49 MB used,  4232.64 MB free, 16085.14 MB total
+[2023.07.03-15.07.18:800][  0]LogMemory: Virtual Memory: 4710.76 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2023.07.03-15.07.18:804][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.07.03-15.07.18:849][  0]LogInit: Using OS detected language (ru-RU).
+[2023.07.03-15.07.18:849][  0]LogInit: Using OS detected locale (ru-RU).
+[2023.07.03-15.07.18:850][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2023.07.03-15.07.18:850][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2023.07.03-15.07.18:850][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2023.07.03-15.07.18:850][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2023.07.03-15.07.18:850][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2023.07.03-15.07.18:851][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2023.07.03-15.07.18:851][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2023.07.03-15.07.18:851][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.07.03-15.07.18:876][  0]LogInit: Setting process to per monitor DPI aware
+[2023.07.03-15.07.18:929][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.07.03-15.07.18:929][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.07.03-15.07.21:267][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.07.03-15.07.21:267][  0]LogD3D11RHI: D3D11 adapters:
+[2023.07.03-15.07.21:362][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4070 Laptop GPU' (Feature Level 11_0)
+[2023.07.03-15.07.21:362][  0]LogD3D11RHI:       7962/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.07.03-15.07.21:396][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2023.07.03-15.07.21:396][  0]LogD3D11RHI:       128/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.07.03-15.07.21:398][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.07.03-15.07.21:398][  0]LogD3D11RHI:       0/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.07.03-15.07.21:398][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.07.03-15.07.21:405][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.07.03-15.07.21:406][  0]LogD3D11RHI:     GPU DeviceId: 0x2820 (for the marketing name, search the web for "GPU Device Id")
+[2023.07.03-15.07.21:406][  0]LogWindows: EnumDisplayDevices:
+[2023.07.03-15.07.21:406][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2023.07.03-15.07.21:406][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.07.03-15.07.21:406][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.07.03-15.07.21:406][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.07.03-15.07.21:406][  0]LogWindows:    4. 'NVIDIA GeForce RTX 4070 Laptop GPU' (P:0 D:0)
+[2023.07.03-15.07.21:406][  0]LogWindows:    5. 'NVIDIA GeForce RTX 4070 Laptop GPU' (P:0 D:0)
+[2023.07.03-15.07.21:407][  0]LogWindows:    6. 'NVIDIA GeForce RTX 4070 Laptop GPU' (P:0 D:0)
+[2023.07.03-15.07.21:407][  0]LogWindows:    7. 'NVIDIA GeForce RTX 4070 Laptop GPU' (P:0 D:0)
+[2023.07.03-15.07.21:407][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.07.03-15.07.21:407][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4070 Laptop GPU
+[2023.07.03-15.07.21:407][  0]LogD3D11RHI:   Driver Version: 531.68 (internal:31.0.15.3168, unified:531.68)
+[2023.07.03-15.07.21:407][  0]LogD3D11RHI:      Driver Date: 4-13-2023
+[2023.07.03-15.07.21:407][  0]LogRHI: Texture pool is 5573 MB (70% of 7962 MB)
+[2023.07.03-15.07.21:461][  0]LogD3D11RHI: Async texture creation enabled
+[2023.07.03-15.07.21:496][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.07.03-15.07.21:773][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2023.07.03-15.07.21:779][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2023.07.03-15.07.21:785][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2023.07.03-15.07.21:791][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2023.07.03-15.07.21:801][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2023.07.03-15.07.21:807][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2023.07.03-15.07.21:813][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2023.07.03-15.07.21:819][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2023.07.03-15.07.21:821][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2023.07.03-15.07.21:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2023.07.03-15.07.21:851][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2023.07.03-15.07.21:871][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2023.07.03-15.07.21:871][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2023.07.03-15.07.21:879][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2023.07.03-15.07.21:879][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2023.07.03-15.07.21:884][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2023.07.03-15.07.21:888][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2023.07.03-15.07.21:892][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2023.07.03-15.07.21:907][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2023.07.03-15.07.21:928][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2023.07.03-15.07.21:928][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2023.07.03-15.07.21:928][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.07.03-15.07.21:975][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.07.03-15.07.22:034][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Intermediate/Shaders/WorkingDirectory/24888/).
+[2023.07.03-15.07.22:034][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aleks/AppData/Local/Temp/UnrealShaderWorkingDir/4770F6634B8E6EBC5D1432AC49CBA9B0/'.
+[2023.07.03-15.07.22:036][  0]LogXGEController: Cleaning working directory: C:/Users/aleks/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.07.03-15.07.22:036][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.07.03-15.07.22:036][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.07.03-15.07.22:036][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.07.03-15.07.24:427][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.07.03-15.07.24:481][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/aleks/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2023.07.03-15.07.24:481][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aleks/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2023.07.03-15.07.24:481][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.07.03-15.07.24:481][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.07.03-15.07.24:481][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.03-15.07.24:481][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.07.03-15.07.24:498][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.07.03-15.07.24:498][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.03-15.07.24:498][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.07.03-15.07.24:499][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aleks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.07.03-15.07.24:499][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.07.03-15.07.24:499][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.07.03-15.07.24:514][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.07.03-15.07.24:516][  0]LogSlate: Using FreeType 2.6.0
+[2023.07.03-15.07.24:527][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.07.03-15.07.24:591][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2023.07.03-15.07.24:828][  0]LogInit: Selected Device Profile: [Windows]
+[2023.07.03-15.07.25:045][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.07.03-15.07.25:045][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.07.03-15.07.25:045][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.07.03-15.07.25:045][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.07.03-15.07.25:045][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.07.03-15.07.25:077][  0]LogNetVersion: JamRunner 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2465372428)
+[2023.07.03-15.07.25:796][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.023998 seconds
+[2023.07.03-15.07.25:801][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2023.07.03-15.07.25:801][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2023.07.03-15.07.25:801][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.07.03-15.07.26:653][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.07.03-15.07.26:655][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.07.03-15.07.26:698][  0]SourceControl: Source control is disabled
+[2023.07.03-15.07.26:698][  0]SourceControl: Source control is disabled
+[2023.07.03-15.07.26:700][  0]SourceControl: Source control is disabled
+[2023.07.03-15.07.26:701][  0]SourceControl: Source control is disabled
+[2023.07.03-15.07.26:768][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.07.03-15.07.26:897][  0]LogOcInput: OculusInput pre-init called
+[2023.07.03-15.07.26:901][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.07.03-15.07.26:901][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.07.03-15.07.26:977][  0]LogEngine: Initializing Engine...
+[2023.07.03-15.07.26:977][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.07.03-15.07.26:978][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.07.03-15.07.27:268][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.07.03-15.07.27:280][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.07.03-15.07.27:300][  0]LogInit: XAudio2 using 'Динамики (HyperX Cloud II Wireless)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.07.03-15.07.27:332][  0]LogInit: FAudioDevice initialized.
+[2023.07.03-15.07.27:332][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.07.03-15.07.27:370][  0]LogDerivedDataCache: Saved boot cache 0.04s 73MB C:/Users/aleks/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2023.07.03-15.07.27:371][  0]LogInit: Texture streaming: Enabled
+[2023.07.03-15.07.27:384][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.07.03-15.07.27:384][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.07.03-15.07.27:384][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.07.03-15.07.27:416][  0]LogInit: Transaction tracking system initialized
+[2023.07.03-15.07.27:434][  0]BlueprintLog: New page: Editor Load
+[2023.07.03-15.07.27:486][  0]LocalizationService: Localization service is disabled
+[2023.07.03-15.07.27:800][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/' took 0.01s
+[2023.07.03-15.07.27:800][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.07.03-15.07.27:800][  0]LogCook: Display: Mobile HDR setting 1
+[2023.07.03-15.07.28:004][  0]SourceControl: Source control is disabled
+[2023.07.03-15.07.28:005][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.03-15.07.28:005][  0]LightingResults: New page: Lighting Build
+[2023.07.03-15.07.28:006][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.07.28:006][  0]MapCheck: New page: Map Check
+[2023.07.03-15.07.28:006][  0]LightingResults: New page: Lighting Build
+[2023.07.03-15.07.28:034][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.07.03-15.07.29:563][  0]LogAIModule: Creating AISystem for world lvl_1
+[2023.07.03-15.07.29:573][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.07.29:573][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.07.29:595][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.07.29:595][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.07.29:595][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.07.29:595][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.07.29:595][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.07.29:595][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.07.29:596][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.03-15.07.29:630][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.07.03-15.07.29:630][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.03-15.07.29:630][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
+[2023.07.03-15.07.29:630][  0]LogFileHelpers: Loading map 'lvl_1' took 1.626
+[2023.07.03-15.07.29:736][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.07.29:739][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.07.29:744][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.07.29:748][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.07.29:756][  0]LogCollectionManager: Loaded 0 collections in 0.001308 seconds
+[2023.07.03-15.07.29:761][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/Collections/' took 0.00s
+[2023.07.03-15.07.29:761][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Developers/aleks/Collections/' took 0.00s
+[2023.07.03-15.07.29:761][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Collections/' took 0.00s
+[2023.07.03-15.07.29:761][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2023.07.03-15.07.29:766][  0]LogContentBrowser: Native class hierarchy populated in 0.0054 seconds. Added 2863 classes and 680 folders.
+[2023.07.03-15.07.29:770][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2023.07.03-15.07.29:935][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.07.03-15.07.29:940][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.07.03-15.07.30:031][  0]LogSlate: Took 0.004513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.03-15.07.30:036][  0]LogSlate: Took 0.003485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.07.03-15.07.30:041][  0]LogSlate: Took 0.003636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.07.03-15.07.30:131][  0]LogRenderer: Reallocating scene render targets to support 1224x668 Format 10 NumSamples 1 (Frame:1).
+[2023.07.03-15.07.30:221][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.07.03-15.07.30:221][  0]LogLoad: (Engine Initialization) Total time: 13.92 seconds
+[2023.07.03-15.07.30:221][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.07.03-15.07.30:294][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.07.03-15.07.30:319][  0]LogSlate: Took 0.003629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.03-15.07.30:699][  8]LogAssetRegistry: Asset discovery search completed in 6.1085 seconds
+[2023.07.03-15.07.30:700][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2023.07.03-15.07.30:700][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2023.07.03-15.07.52:244][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.07.03-15.07.52:343][275]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.03-15.07.52:355][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.07.52:355][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.03-15.07.52:355][275]PIE: New page: PIE session: lvl_1 (3 июля 2023 г., 21:07:52)
+[2023.07.03-15.07.52:355][275]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.07.03-15.07.52:356][275]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.07.52:362][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005422s)
+[2023.07.03-15.07.52:363][275]LogAIModule: Creating AISystem for world lvl_1
+[2023.07.03-15.07.52:363][275]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2023.07.03-15.07.52:363][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_1.lvl_1 to /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 (0.006424s)
+[2023.07.03-15.07.52:388][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.07.03-15.07.52:396][275]LogInit: XAudio2 using 'Динамики (HyperX Cloud II Wireless)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.07.03-15.07.52:427][275]LogInit: FAudioDevice initialized.
+[2023.07.03-15.07.52:439][275]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.07.52:442][275]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 up for play (max tick rate 60) at 2023.07.03-18.07.52
+[2023.07.03-15.07.52:443][275]LogWorld: Bringing up level for play took: 0.002819
+[2023.07.03-15.07.52:443][275]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2023.07.03-15.07.52:447][275]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.07.03-15.07.52:448][275]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.001
+[2023.07.03-15.07.52:456][275]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.002
+[2023.07.03-15.07.52:460][275]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.003
+[2023.07.03-15.07.52:467][275]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.004
+[2023.07.03-15.07.52:468][275]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_1] 0.005
+[2023.07.03-15.07.52:468][275]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_1] set level
+[2023.07.03-15.07.52:484][275]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.07.03-15.07.52:484][275]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_1 -0,591
+[2023.07.03-15.07.52:484][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.07.54:947][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.07.54:947][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.07.54:947][422]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.07.54:947][422]LogWorld: UWorld::CleanupWorld for lvl_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.07.54:959][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.03-15.07.54:959][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.07.54:992][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.07.54:995][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.07.03-15.07.55:051][426]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.07.03-15.08.00:587][758]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.08.00:587][758]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.09.07:045][190]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.09.07:045][190]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.09.13:564][580]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.09.13:564][580]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.09.15:683][707]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.03-15.09.15:690][707]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.BP_Truba_Module_Rychag
+[2023.07.03-15.09.15:847][707]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 121 classes and 0 folders.
+[2023.07.03-15.09.16:352][707]LogSlate: Took 0.003280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.03-15.09.16:465][708]LogSlate: Took 0.003686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.07.03-15.11.51:856][196]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.11.51:856][196]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.12.01:344][747]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.12.01:344][747]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.12.03:022][846]LogAIModule: Creating AISystem for world lvl_2
+[2023.07.03-15.12.03:039][846]LogAssetEditorManager: Opening Asset editor for World /Game/Kirill/lvl_2.lvl_2
+[2023.07.03-15.12.03:074][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.07.03-15.12.03:074][846]Cmd: MAP LOAD FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.03-15.12.03:074][846]LightingResults: New page: Lighting Build
+[2023.07.03-15.12.03:075][846]LoadErrors: New page: Loading map: lvl_2.umap
+[2023.07.03-15.12.03:075][846]LogWorld: UWorld::CleanupWorld for lvl_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.12.03:075][846]MapCheck: New page: Map Check
+[2023.07.03-15.12.03:075][846]LightingResults: New page: Lighting Build
+[2023.07.03-15.12.03:108][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.07.03-15.12.03:190][846]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.03-15.12.03:221][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.07.03-15.12.03:242][846]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.03-15.12.03:244][846]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,876ms to complete.
+[2023.07.03-15.12.03:244][846]LogFileHelpers: Loading map 'lvl_2' took 0.170
+[2023.07.03-15.12.13:971][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.07.03-15.12.14:131][496]LogAIModule: Creating AISystem for world lvl_3
+[2023.07.03-15.12.14:150][496]LogAssetEditorManager: Opening Asset editor for World /Game/Kirill/lvl_3.lvl_3
+[2023.07.03-15.12.14:181][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.07.03-15.12.14:181][496]Cmd: MAP LOAD FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.03-15.12.14:181][496]LightingResults: New page: Lighting Build
+[2023.07.03-15.12.14:182][496]LoadErrors: New page: Loading map: lvl_3.umap
+[2023.07.03-15.12.14:183][496]LogWorld: UWorld::CleanupWorld for lvl_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.12.14:183][496]MapCheck: New page: Map Check
+[2023.07.03-15.12.14:183][496]LightingResults: New page: Lighting Build
+[2023.07.03-15.12.14:217][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.07.03-15.12.14:319][496]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.03-15.12.14:352][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.07.03-15.12.14:374][496]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.03-15.12.14:374][496]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2023.07.03-15.12.14:374][496]LogFileHelpers: Loading map 'lvl_3' took 0.194
+[2023.07.03-15.13.05:614][451]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.07.03-15.13.29:058][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.07.03-15.13.29:079][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/lvl_3" FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.03-15.13.29:110][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.03-15.13.29:238][829]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_34FDF44384962E8F552F82E9648F03730.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_3.umap'
+[2023.07.03-15.13.29:258][829]LogFileHelpers: Saving map 'lvl_3' took 0.180
+[2023.07.03-15.13.32:487][ 19]LogAIModule: Creating AISystem for world lvl_2
+[2023.07.03-15.13.32:505][ 19]LogAssetEditorManager: Opening Asset editor for World /Game/Kirill/lvl_2.lvl_2
+[2023.07.03-15.13.32:536][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.07.03-15.13.32:537][ 19]Cmd: MAP LOAD FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.03-15.13.32:537][ 19]LightingResults: New page: Lighting Build
+[2023.07.03-15.13.32:537][ 19]LoadErrors: New page: Loading map: lvl_2.umap
+[2023.07.03-15.13.32:538][ 19]LogWorld: UWorld::CleanupWorld for lvl_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.13.32:538][ 19]MapCheck: New page: Map Check
+[2023.07.03-15.13.32:538][ 19]LightingResults: New page: Lighting Build
+[2023.07.03-15.13.32:570][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.07.03-15.13.32:679][ 19]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.03-15.13.32:713][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.07.03-15.13.32:733][ 19]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.03-15.13.32:733][ 19]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,086ms to complete.
+[2023.07.03-15.13.32:733][ 19]LogFileHelpers: Loading map 'lvl_2' took 0.197
+[2023.07.03-15.14.12:743][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.07.03-15.14.12:762][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/lvl_2" FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.03-15.14.12:793][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.03-15.14.12:919][413]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_2AD8DD367482D99C4F1C072AA8EC64F0F.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_2.umap'
+[2023.07.03-15.14.12:941][413]LogFileHelpers: Saving map 'lvl_2' took 0.180
+[2023.07.03-15.14.14:964][533]LogAIModule: Creating AISystem for world lvl_1
+[2023.07.03-15.14.14:981][533]LogAssetEditorManager: Opening Asset editor for World /Game/Kirill/lvl_1.lvl_1
+[2023.07.03-15.14.15:013][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.07.03-15.14.15:014][533]Cmd: MAP LOAD FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.03-15.14.15:014][533]LightingResults: New page: Lighting Build
+[2023.07.03-15.14.15:014][533]LoadErrors: New page: Loading map: lvl_1.umap
+[2023.07.03-15.14.15:015][533]LogWorld: UWorld::CleanupWorld for lvl_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.14.15:015][533]MapCheck: New page: Map Check
+[2023.07.03-15.14.15:015][533]LightingResults: New page: Lighting Build
+[2023.07.03-15.14.15:049][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.07.03-15.14.15:052][533]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.14.15:052][533]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.14.15:074][533]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.14.15:074][533]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.14.15:074][533]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.14.15:075][533]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.14.15:075][533]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.14.15:075][533]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.14.15:178][533]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.03-15.14.15:210][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.07.03-15.14.15:230][533]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.03-15.14.15:231][533]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,091ms to complete.
+[2023.07.03-15.14.15:231][533]LogFileHelpers: Loading map 'lvl_1' took 0.217
+[2023.07.03-15.14.37:211][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.07.03-15.14.38:213][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.07.03-15.16.12:211][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.07.03-15.16.12:310][189]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.03-15.16.12:339][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.16.12:339][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.03-15.16.12:339][189]PIE: New page: PIE session: lvl_1 (3 июля 2023 г., 21:16:12)
+[2023.07.03-15.16.12:339][189]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.16.12:345][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005524s)
+[2023.07.03-15.16.12:346][189]LogAIModule: Creating AISystem for world lvl_1
+[2023.07.03-15.16.12:346][189]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2023.07.03-15.16.12:346][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_1.lvl_1 to /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 (0.006445s)
+[2023.07.03-15.16.12:377][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.07.03-15.16.12:385][189]LogInit: XAudio2 using 'Динамики (HyperX Cloud II Wireless)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.07.03-15.16.12:415][189]LogInit: FAudioDevice initialized.
+[2023.07.03-15.16.12:423][189]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.16.12:426][189]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 up for play (max tick rate 60) at 2023.07.03-18.16.12
+[2023.07.03-15.16.12:426][189]LogWorld: Bringing up level for play took: 0.002538
+[2023.07.03-15.16.12:426][189]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2023.07.03-15.16.12:427][189]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.001
+[2023.07.03-15.16.12:427][189]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.002
+[2023.07.03-15.16.12:431][189]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_1] 0.003
+[2023.07.03-15.16.12:441][189]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.004
+[2023.07.03-15.16.12:441][189]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.005
+[2023.07.03-15.16.12:441][189]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] set level
+[2023.07.03-15.16.12:443][189]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.006
+[2023.07.03-15.16.12:446][189]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.007
+[2023.07.03-15.16.12:458][189]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.07.03-15.16.12:458][189]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_1 -0,617
+[2023.07.03-15.16.12:459][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.16.17:304][479]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.008
+[2023.07.03-15.16.17:304][479]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.009
+[2023.07.03-15.16.17:304][479]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_1] 0.01
+[2023.07.03-15.16.17:304][479]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.011
+[2023.07.03-15.16.17:304][479]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.012
+[2023.07.03-15.16.17:305][479]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.013
+[2023.07.03-15.16.17:305][479]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.014
+[2023.07.03-15.16.17:932][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.07.03-15.16.18:605][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.16.18:606][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.16.18:606][519]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.16.18:606][519]LogWorld: UWorld::CleanupWorld for lvl_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.16.18:614][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.03-15.16.18:614][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.16.18:651][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.16.18:655][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.07.03-15.16.18:714][523]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.07.03-15.17.31:046][849]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={1E33A383-4673-6E14-399D-489DE0843FA5}
+[2023.07.03-15.18.28:587][179]LogEditorTransaction: Undo Delete current selection
+[2023.07.03-15.18.50:007][713]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.18.50:007][713]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.18.55:653][ 46]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.18.55:653][ 46]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.23.18:791][501]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.23.18:958][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.07.03-15.23.21:422][643]LogAIModule: Creating AISystem for world lvl_2
+[2023.07.03-15.23.21:438][643]LogAssetEditorManager: Opening Asset editor for World /Game/Kirill/lvl_2.lvl_2
+[2023.07.03-15.23.21:473][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.07.03-15.23.22:940][643]LogSlate: Window 'Save Content' being destroyed
+[2023.07.03-15.23.23:008][643]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag583799B74F11A869FDC5AD954243E2EB.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.23.23:010][643]Cmd: MAP LOAD FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.03-15.23.23:010][643]LightingResults: New page: Lighting Build
+[2023.07.03-15.23.23:011][643]LoadErrors: New page: Loading map: lvl_2.umap
+[2023.07.03-15.23.23:011][643]LogWorld: UWorld::CleanupWorld for lvl_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.23.23:012][643]MapCheck: New page: Map Check
+[2023.07.03-15.23.23:012][643]LightingResults: New page: Lighting Build
+[2023.07.03-15.23.23:047][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.07.03-15.23.23:210][643]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.03-15.23.23:242][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.07.03-15.23.23:263][643]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.03-15.23.23:263][643]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,096ms to complete.
+[2023.07.03-15.23.23:263][643]LogFileHelpers: Loading map 'lvl_2' took 0.254
+[2023.07.03-15.23.29:079][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.07.03-15.23.53:716][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.07.03-15.24.07:376][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.07.03-15.24.07:376][272]LogMetaData: Removing '/Game/Kirill/lvl_2Radiation.lvl_2Radiation_C' ref from Metadata '/Game/Kirill/lvl_2.PackageMetaData'
+[2023.07.03-15.24.07:376][272]LogMetaData: Removing '/Game/Kirill/lvl_2Radiation.SKEL_lvl_2Radiation_C' ref from Metadata '/Game/Kirill/lvl_2.PackageMetaData'
+[2023.07.03-15.24.07:397][272]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_2Radiation_BuiltData2FB55901483C55330DC39DB9F0848DA4.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_2Radiation_BuiltData.uasset'
+[2023.07.03-15.24.07:431][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.07.03-15.24.07:553][272]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_2Radiation084B954640D76DB5A52676A6A686BA5F.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_2Radiation.umap'
+[2023.07.03-15.24.07:573][272]LogFileHelpers: Saving map 'lvl_2Radiation' took 0.174
+[2023.07.03-15.24.07:748][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.07.03-15.24.07:775][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.03-15.24.07:813][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.07.03-15.24.07:844][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.07.03-15.24.22:412][132]LogAIModule: Creating AISystem for world lvl_3
+[2023.07.03-15.24.29:388][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.07.03-15.24.29:388][538]LogMetaData: Removing '/Game/Kirill/lvl_3Cold.lvl_3Cold_C' ref from Metadata '/Game/Kirill/lvl_3.PackageMetaData'
+[2023.07.03-15.24.29:388][538]LogMetaData: Removing '/Game/Kirill/lvl_3Cold.SKEL_lvl_3Cold_C' ref from Metadata '/Game/Kirill/lvl_3.PackageMetaData'
+[2023.07.03-15.24.29:411][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/lvl_3Cold_BuiltData" FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_3Cold_BuiltData.uasset" SILENT=true
+[2023.07.03-15.24.29:412][538]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_3Cold_BuiltDataCA90D1674DDCC48CF824A488028ED357.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_3Cold_BuiltData.uasset'
+[2023.07.03-15.24.29:485][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.07.03-15.24.29:626][538]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_3Cold2F2CAE2E4B20875215A1829A4E0A02F2.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_3Cold.umap'
+[2023.07.03-15.24.29:644][538]LogFileHelpers: Saving map 'lvl_3Cold' took 0.227
+[2023.07.03-15.24.29:830][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.07.03-15.24.29:862][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.03-15.24.29:901][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.07.03-15.24.29:933][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.07.03-15.24.30:734][583]LogAIModule: Creating AISystem for world lvl_1
+[2023.07.03-15.24.35:337][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.07.03-15.24.35:337][848]LogMetaData: Removing '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Kirill/lvl_1.PackageMetaData'
+[2023.07.03-15.24.35:338][848]LogMetaData: Removing '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Kirill/lvl_1.PackageMetaData'
+[2023.07.03-15.24.35:338][848]LogMetaData: Removing '/Game/Kirill/lvl_1Fire.lvl_1Fire_C' ref from Metadata '/Game/Kirill/lvl_1.PackageMetaData'
+[2023.07.03-15.24.35:338][848]LogMetaData: Removing '/Game/Kirill/lvl_1Fire.SKEL_lvl_1Fire_C' ref from Metadata '/Game/Kirill/lvl_1.PackageMetaData'
+[2023.07.03-15.24.35:363][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/lvl_1Fire_BuiltData" FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_1Fire_BuiltData.uasset" SILENT=true
+[2023.07.03-15.24.35:364][848]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_1Fire_BuiltData6475FBCA4F5C1BC92BE7DBBFAC3C9C44.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_1Fire_BuiltData.uasset'
+[2023.07.03-15.24.35:374][848]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.24.35:374][848]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.24.35:399][848]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.24.35:399][848]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.24.35:399][848]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.24.35:399][848]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.24.35:399][848]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.24.35:399][848]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.24.35:432][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.07.03-15.24.35:577][848]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_1FireDEFD7195467BA0B41962EABD2B7BE338.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_1Fire.umap'
+[2023.07.03-15.24.35:596][848]LogFileHelpers: Saving map 'lvl_1Fire' took 0.227
+[2023.07.03-15.24.35:794][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.07.03-15.24.35:827][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.03-15.24.35:866][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.07.03-15.24.35:897][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.03-15.24.55:027][989]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.24.55:202][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.07.03-15.25.18:036][339]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.25.18:212][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.07.03-15.25.19:145][388]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_RychagEE1CDAC24569A8CBB0DE19989273858E.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.25.39:120][581]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.25.39:303][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.07.03-15.25.39:626][594]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag322E8F334C7E3B6568D86B8F22FBAA4B.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.25.56:099][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.07.03-15.25.56:099][569]LogMetaData: Removing '/Game/Kirill/lvl_2Cold.lvl_2Cold_C' ref from Metadata '/Game/Kirill/lvl_3Cold.PackageMetaData'
+[2023.07.03-15.25.56:099][569]LogMetaData: Removing '/Game/Kirill/lvl_2Cold.SKEL_lvl_2Cold_C' ref from Metadata '/Game/Kirill/lvl_3Cold.PackageMetaData'
+[2023.07.03-15.25.56:120][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/lvl_2Cold_BuiltData" FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_2Cold_BuiltData.uasset" SILENT=true
+[2023.07.03-15.25.56:121][569]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_2Cold_BuiltDataD7D3C8C84D659AAC112B8BA57E0A043B.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_2Cold_BuiltData.uasset'
+[2023.07.03-15.25.56:193][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.07.03-15.25.56:337][569]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_2Cold3C2EA45D4F1D4DA8089B5AB90FB0C9C9.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_2Cold.umap'
+[2023.07.03-15.25.56:355][569]LogFileHelpers: Saving map 'lvl_2Cold' took 0.229
+[2023.07.03-15.25.56:561][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.07.03-15.25.56:599][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.03-15.25.56:641][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.07.03-15.25.56:675][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.07.03-15.26.02:505][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.07.03-15.26.02:506][907]LogMetaData: Removing '/Game/Kirill/lvl_3Radiation.lvl_3Radiation_C' ref from Metadata '/Game/Kirill/lvl_2Radiation.PackageMetaData'
+[2023.07.03-15.26.02:506][907]LogMetaData: Removing '/Game/Kirill/lvl_3Radiation.SKEL_lvl_3Radiation_C' ref from Metadata '/Game/Kirill/lvl_2Radiation.PackageMetaData'
+[2023.07.03-15.26.02:532][907]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_3Radiation_BuiltDataB56A472047E332661B95369DB0DF11EB.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_3Radiation_BuiltData.uasset'
+[2023.07.03-15.26.02:570][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.07.03-15.26.02:721][907]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_3Radiation38D92A06450F75BECEFBDD8F0466F859.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_3Radiation.umap'
+[2023.07.03-15.26.02:748][907]LogFileHelpers: Saving map 'lvl_3Radiation' took 0.213
+[2023.07.03-15.26.02:983][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.07.03-15.26.03:015][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.07.03-15.26.03:056][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.07.03-15.26.03:091][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.07.03-15.26.12:340][458]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.26.12:520][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.07.03-15.26.12:950][477]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag68E6A8364827CE384743769618623601.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.27.16:680][283]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.27.16:864][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.07.03-15.27.17:330][305]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag084501D848C9045B196029A9CD5B88A1.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.27.41:948][778]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.27.42:137][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.07.03-15.27.42:523][795]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag59D55D304F702980154A9DA7536329B2.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.28.26:724][443]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.28.26:910][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.07.03-15.28.27:331][462]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_RychagC7B7143A4E873A5239CE018219E8C734.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.29.36:801][611]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.29.37:089][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.07.03-15.29.37:471][626]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag1CD67A864B0630F561A831BE7DC695B6.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.29.55:405][699]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.29.55:592][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.07.03-15.29.55:975][715]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_RychagA7F4656A4D6F6368FF857498BDAFA622.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.30.39:781][337]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.30.39:973][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.07.03-15.30.40:452][359]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag15A5C96F4E955041CB5CE0B32CE2AF56.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.31.03:191][721]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.31.03:379][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.07.03-15.31.03:808][740]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag9DA0D5634101C57D79FEBFA079B15341.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.32.11:502][787]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.32.11:689][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.07.03-15.32.12:104][805]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag366921A2438267898EBEE3AA3031EACB.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.32.24:432][543]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.03-15.32.24:462][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel.lvl_3Radiation' with GeneratedClass '/Game/Kirill/lvl_3Radiation.lvl_3Radiation_C' with ClassGeneratedBy '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel.lvl_3Radiation'
+[2023.07.03-15.32.24:462][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.03-15.32.24:462][543]PIE: New page: PIE session: lvl_3Radiation (3 июля 2023 г., 21:32:24)
+[2023.07.03-15.32.24:463][543]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_3Radiation
+[2023.07.03-15.32.24:467][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005031s)
+[2023.07.03-15.32.24:469][543]LogAIModule: Creating AISystem for world lvl_3Radiation
+[2023.07.03-15.32.24:469][543]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2023.07.03-15.32.24:469][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_3Radiation.lvl_3Radiation to /Game/Kirill/UEDPIE_0_lvl_3Radiation.lvl_3Radiation (0.006105s)
+[2023.07.03-15.32.24:507][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.07.03-15.32.24:516][543]LogInit: XAudio2 using 'Динамики (HyperX Cloud II Wireless)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.07.03-15.32.24:547][543]LogInit: FAudioDevice initialized.
+[2023.07.03-15.32.24:551][543]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.32.24:554][543]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_3Radiation.lvl_3Radiation up for play (max tick rate 60) at 2023.07.03-18.32.24
+[2023.07.03-15.32.24:555][543]LogWorld: Bringing up level for play took: 0.002843
+[2023.07.03-15.32.24:555][543]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.07.03-15.32.24:568][543]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.001
+[2023.07.03-15.32.24:569][543]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.002
+[2023.07.03-15.32.24:569][543]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.003
+[2023.07.03-15.32.24:572][543]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.004
+[2023.07.03-15.32.24:572][543]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.005
+[2023.07.03-15.32.24:577][543]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.006
+[2023.07.03-15.32.24:593][543]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.07.03-15.32.24:593][543]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_3Radiation -0,482
+[2023.07.03-15.32.24:593][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel.lvl_3Radiation' with GeneratedClass '/Game/Kirill/lvl_3Radiation.lvl_3Radiation_C' with ClassGeneratedBy '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel.lvl_3Radiation'
+[2023.07.03-15.32.26:820][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.07.03-15.32.27:823][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel.lvl_3Radiation' with GeneratedClass '/Game/Kirill/lvl_3Radiation.lvl_3Radiation_C' with ClassGeneratedBy '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel.lvl_3Radiation'
+[2023.07.03-15.32.27:823][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.32.27:823][698]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_3Radiation
+[2023.07.03-15.32.27:823][698]LogWorld: UWorld::CleanupWorld for lvl_3Radiation, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.32.27:833][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.03-15.32.27:833][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel.lvl_3Radiation' with GeneratedClass '/Game/Kirill/lvl_3Radiation.lvl_3Radiation_C' with ClassGeneratedBy '/Game/Kirill/lvl_3Radiation.lvl_3Radiation:PersistentLevel.lvl_3Radiation'
+[2023.07.03-15.32.27:874][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.32.27:878][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.07.03-15.32.27:922][701]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.07.03-15.32.28:831][755]LogAssetEditorManager: Opening Asset editor for World /Game/Kirill/lvl_1Fire.lvl_1Fire
+[2023.07.03-15.32.28:861][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.07.03-15.32.33:759][755]LogSlate: Window 'Save Content' being destroyed
+[2023.07.03-15.32.33:816][755]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag6CD016A742DE3AAE91C1E4BDB68C9361.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.32.33:819][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.32.33:820][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.32.33:830][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.32.33:830][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.32.33:830][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.32.33:830][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.32.33:830][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.32.33:830][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.32.33:881][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.07.03-15.32.34:043][755]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_1Fire47E69E354743AE9E66A805A8E18A768B.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_1Fire.umap'
+[2023.07.03-15.32.34:060][755]LogFileHelpers: Saving map 'lvl_1Fire' took 0.244
+[2023.07.03-15.32.34:125][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.07.03-15.32.34:290][755]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_2Cold2E7F7B804E405347BBA113AB028038DB.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_2Cold.umap'
+[2023.07.03-15.32.34:308][755]LogFileHelpers: Saving map 'lvl_2Cold' took 0.247
+[2023.07.03-15.32.34:345][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.07.03-15.32.34:510][755]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_3RadiationA6EE79AC446463D6AAAAA38AE1E34B0F.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_3Radiation.umap'
+[2023.07.03-15.32.34:529][755]LogFileHelpers: Saving map 'lvl_3Radiation' took 0.222
+[2023.07.03-15.32.34:535][755]Cmd: MAP LOAD FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_1Fire.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.03-15.32.34:535][755]LightingResults: New page: Lighting Build
+[2023.07.03-15.32.34:535][755]LoadErrors: New page: Loading map: lvl_1Fire.umap
+[2023.07.03-15.32.34:536][755]LogWorld: UWorld::CleanupWorld for lvl_3Radiation, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.32.34:537][755]MapCheck: New page: Map Check
+[2023.07.03-15.32.34:537][755]LightingResults: New page: Lighting Build
+[2023.07.03-15.32.34:573][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.07.03-15.32.34:610][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.07.03-15.32.34:641][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.07.03-15.32.34:644][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.32.34:644][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.32.34:653][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.32.34:653][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.32.34:653][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.32.34:653][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.32.34:653][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.07.03-15.32.34:653][755]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.07.03-15.32.34:829][755]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.03-15.32.34:863][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.07.03-15.32.34:882][755]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.03-15.32.34:883][755]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
+[2023.07.03-15.32.34:884][755]LogFileHelpers: Loading map 'lvl_1Fire' took 0.351
+[2023.07.03-15.32.34:949][755]LogAIModule: Creating AISystem for world lvl_2Cold
+[2023.07.03-15.32.34:976][755]LogAIModule: Creating AISystem for world lvl_3Radiation
+[2023.07.03-15.32.35:915][808]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.03-15.32.35:931][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire' with GeneratedClass '/Game/Kirill/lvl_1Fire.lvl_1Fire_C' with ClassGeneratedBy '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire'
+[2023.07.03-15.32.35:931][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.03-15.32.35:931][808]PIE: New page: PIE session: lvl_1Fire (3 июля 2023 г., 21:32:35)
+[2023.07.03-15.32.35:931][808]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_1Fire
+[2023.07.03-15.32.35:936][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005001s)
+[2023.07.03-15.32.35:937][808]LogAIModule: Creating AISystem for world lvl_1Fire
+[2023.07.03-15.32.35:937][808]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2023.07.03-15.32.35:937][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_1Fire.lvl_1Fire to /Game/Kirill/UEDPIE_0_lvl_1Fire.lvl_1Fire (0.005790s)
+[2023.07.03-15.32.35:972][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.07.03-15.32.35:979][808]LogInit: XAudio2 using 'Динамики (HyperX Cloud II Wireless)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.07.03-15.32.36:009][808]LogInit: FAudioDevice initialized.
+[2023.07.03-15.32.36:014][808]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.32.36:017][808]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_1Fire.lvl_1Fire up for play (max tick rate 60) at 2023.07.03-18.32.36
+[2023.07.03-15.32.36:018][808]LogWorld: Bringing up level for play took: 0.002690
+[2023.07.03-15.32.36:018][808]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.07.03-15.32.36:020][808]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.001
+[2023.07.03-15.32.36:028][808]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.002
+[2023.07.03-15.32.36:032][808]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.003
+[2023.07.03-15.32.36:036][808]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.004
+[2023.07.03-15.32.36:039][808]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.005
+[2023.07.03-15.32.36:040][808]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_2] 0.006
+[2023.07.03-15.32.36:040][808]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_2] set level
+[2023.07.03-15.32.36:040][808]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.007
+[2023.07.03-15.32.36:044][808]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_4] 0.008
+[2023.07.03-15.32.36:047][808]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_2] set level
+[2023.07.03-15.32.36:048][808]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] set level
+[2023.07.03-15.32.36:056][808]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.07.03-15.32.36:056][808]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_1Fire 0,981
+[2023.07.03-15.32.36:056][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire' with GeneratedClass '/Game/Kirill/lvl_1Fire.lvl_1Fire_C' with ClassGeneratedBy '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire'
+[2023.07.03-15.32.40:913][ 99]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.009
+[2023.07.03-15.32.40:913][ 99]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.01
+[2023.07.03-15.32.40:913][ 99]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.011
+[2023.07.03-15.32.40:913][ 99]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.012
+[2023.07.03-15.32.40:913][ 99]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.013
+[2023.07.03-15.32.40:913][ 99]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_2] 0.014
+[2023.07.03-15.32.40:913][ 99]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.015
+[2023.07.03-15.32.40:913][ 99]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_4] 0.016
+[2023.07.03-15.32.45:914][399]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.017
+[2023.07.03-15.32.45:914][399]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.018
+[2023.07.03-15.32.45:914][399]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.019
+[2023.07.03-15.32.45:914][399]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.02
+[2023.07.03-15.32.45:914][399]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.021
+[2023.07.03-15.32.45:914][399]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_2] 0.022
+[2023.07.03-15.32.45:914][399]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.023
+[2023.07.03-15.32.45:914][399]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_4] 0.024
+[2023.07.03-15.32.47:680][505]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.32.47:864][516]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] lvl_1Fire
+[2023.07.03-15.32.47:880][517]LogNet: Browse: /Game/Kirill/lvl_3Radiation
+[2023.07.03-15.32.47:880][517]LogLoad: LoadMap: /Game/Kirill/lvl_3Radiation
+[2023.07.03-15.32.47:880][517]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_1Fire
+[2023.07.03-15.32.47:880][517]LogWorld: UWorld::CleanupWorld for lvl_1Fire, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.32.47:919][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.07.03-15.32.47:920][517]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_3Radiation
+[2023.07.03-15.32.47:924][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004744s)
+[2023.07.03-15.32.47:924][517]LogAIModule: Creating AISystem for world lvl_3Radiation
+[2023.07.03-15.32.47:925][517]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2023.07.03-15.32.47:925][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_3Radiation.lvl_3Radiation to /Game/Kirill/UEDPIE_0_lvl_3Radiation.lvl_3Radiation (0.005473s)
+[2023.07.03-15.32.47:925][517]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.32.47:929][517]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_3Radiation.lvl_3Radiation up for play (max tick rate 60) at 2023.07.03-18.32.47
+[2023.07.03-15.32.47:929][517]LogWorld: Bringing up level for play took: 0.002590
+[2023.07.03-15.32.47:929][517]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.07.03-15.32.47:937][517]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.025
+[2023.07.03-15.32.47:945][517]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.026
+[2023.07.03-15.32.47:962][517]LogLoad: Took 0.081123 seconds to LoadMap(/Game/Kirill/UEDPIE_0_lvl_3Radiation)
+[2023.07.03-15.32.52:873][812]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.027
+[2023.07.03-15.32.52:873][812]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.028
+[2023.07.03-15.32.57:873][112]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.029
+[2023.07.03-15.32.57:873][112]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.03
+[2023.07.03-15.32.59:923][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'BP_Truba_Module_Rychag' of length 0 in '/Game/Kirill/BP_platforma.BP_platforma_C'!
+[2023.07.03-15.33.02:873][412]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.031
+[2023.07.03-15.33.02:873][412]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.032
+[2023.07.03-15.33.05:657][579]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'BP_Truba_Module_Rychag' of length 0 in '/Game/Kirill/BP_platforma.BP_platforma_C'!
+[2023.07.03-15.33.07:090][665]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.33.07:322][676]LogPackageName: SearchForPackageOnDisk took   0.048s, but failed to resolve lvl_3Cold.umap.
+[2023.07.03-15.33.07:322][676]LogLevel: Warning: WARNING: The map '/Game/Kirill/lvl_1' does not exist.
+[2023.07.03-15.33.07:322][676]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] lvl_3Radiation
+[2023.07.03-15.33.07:374][677]LogPackageName: SearchForPackageOnDisk took   0.047s, but failed to resolve lvl_3Cold.umap.
+[2023.07.03-15.33.07:374][677]LogNet: Browse: /Game/Kirill/lvl_1
+[2023.07.03-15.33.07:375][677]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Kirill/lvl_1
+[2023.07.03-15.33.07:375][677]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Kirill/lvl_1'. Shutting down PIE.
+[2023.07.03-15.33.07:375][677]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Kirill/lvl_1'. Shutting down PIE.
+[2023.07.03-15.33.07:375][677]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Kirill/lvl_1
+[2023.07.03-15.33.07:375][677]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Kirill/lvl_1'. Shutting down PIE.
+[2023.07.03-15.33.07:375][677]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Kirill/lvl_1'. Shutting down PIE.
+[2023.07.03-15.33.07:376][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire' with GeneratedClass '/Game/Kirill/lvl_1Fire.lvl_1Fire_C' with ClassGeneratedBy '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire'
+[2023.07.03-15.33.07:377][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.33.07:377][677]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_3Radiation
+[2023.07.03-15.33.07:377][677]LogWorld: UWorld::CleanupWorld for lvl_3Radiation, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.33.07:385][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.03-15.33.07:386][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire' with GeneratedClass '/Game/Kirill/lvl_1Fire.lvl_1Fire_C' with ClassGeneratedBy '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire'
+[2023.07.03-15.33.07:425][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.33.07:428][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.07.03-15.33.07:443][677]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2023.07.03-15.33.07:474][678]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.07.03-15.33.17:247][264]LogSlate: Window 'Message Log' being destroyed
+[2023.07.03-15.33.17:255][264]LogSlate: Window 'Message Log' being destroyed
+[2023.07.03-15.33.52:944][400]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.33.53:131][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.07.03-15.33.53:494][415]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag4A2205EE4638CB88CE2B809729E7796F.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.33.54:720][488]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.03-15.33.54:747][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire' with GeneratedClass '/Game/Kirill/lvl_1Fire.lvl_1Fire_C' with ClassGeneratedBy '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire'
+[2023.07.03-15.33.54:747][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.03-15.33.54:747][488]PIE: New page: PIE session: lvl_1Fire (3 июля 2023 г., 21:33:54)
+[2023.07.03-15.33.54:747][488]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_1Fire
+[2023.07.03-15.33.54:753][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004844s)
+[2023.07.03-15.33.54:753][488]LogAIModule: Creating AISystem for world lvl_1Fire
+[2023.07.03-15.33.54:753][488]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2023.07.03-15.33.54:753][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_1Fire.lvl_1Fire to /Game/Kirill/UEDPIE_0_lvl_1Fire.lvl_1Fire (0.005663s)
+[2023.07.03-15.33.54:792][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.07.03-15.33.54:800][488]LogInit: XAudio2 using 'Динамики (HyperX Cloud II Wireless)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.07.03-15.33.54:831][488]LogInit: FAudioDevice initialized.
+[2023.07.03-15.33.54:837][488]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.33.54:839][488]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_1Fire.lvl_1Fire up for play (max tick rate 60) at 2023.07.03-18.33.54
+[2023.07.03-15.33.54:840][488]LogWorld: Bringing up level for play took: 0.002734
+[2023.07.03-15.33.54:840][488]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.07.03-15.33.54:846][488]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.001
+[2023.07.03-15.33.54:846][488]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.002
+[2023.07.03-15.33.54:851][488]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.003
+[2023.07.03-15.33.54:855][488]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.004
+[2023.07.03-15.33.54:860][488]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.005
+[2023.07.03-15.33.54:865][488]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_4] 0.006
+[2023.07.03-15.33.54:865][488]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_5] 0.007
+[2023.07.03-15.33.54:865][488]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_5] set level
+[2023.07.03-15.33.54:870][488]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_6] 0.008
+[2023.07.03-15.33.54:870][488]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.009
+[2023.07.03-15.33.54:878][488]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.07.03-15.33.54:878][488]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_1Fire -0,197
+[2023.07.03-15.33.54:878][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire' with GeneratedClass '/Game/Kirill/lvl_1Fire.lvl_1Fire_C' with ClassGeneratedBy '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire'
+[2023.07.03-15.33.59:704][777]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.01
+[2023.07.03-15.33.59:704][777]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.011
+[2023.07.03-15.33.59:704][777]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.012
+[2023.07.03-15.33.59:704][777]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.013
+[2023.07.03-15.33.59:704][777]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.014
+[2023.07.03-15.33.59:704][777]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_4] 0.015
+[2023.07.03-15.33.59:704][777]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_5] 0.016
+[2023.07.03-15.33.59:704][777]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_6] 0.017
+[2023.07.03-15.33.59:704][777]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.018
+[2023.07.03-15.34.04:706][ 77]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.019
+[2023.07.03-15.34.04:706][ 77]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.02
+[2023.07.03-15.34.04:706][ 77]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.021
+[2023.07.03-15.34.04:706][ 77]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.022
+[2023.07.03-15.34.04:706][ 77]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.023
+[2023.07.03-15.34.04:706][ 77]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_4] 0.024
+[2023.07.03-15.34.04:706][ 77]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_5] 0.025
+[2023.07.03-15.34.04:706][ 77]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_6] 0.026
+[2023.07.03-15.34.04:706][ 77]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.027
+[2023.07.03-15.34.08:189][286]LogBlueprintUserMessages: [WBP_GameOver_C_0] lvl_1Fire
+[2023.07.03-15.34.08:190][286]LogNet: Browse: /Game/Kirill/lvl_1Fire
+[2023.07.03-15.34.08:190][286]LogLoad: LoadMap: /Game/Kirill/lvl_1Fire
+[2023.07.03-15.34.08:190][286]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_1Fire
+[2023.07.03-15.34.08:191][286]LogWorld: UWorld::CleanupWorld for lvl_1Fire, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.34.08:233][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.07.03-15.34.08:235][286]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_1Fire
+[2023.07.03-15.34.08:239][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005346s)
+[2023.07.03-15.34.08:240][286]LogAIModule: Creating AISystem for world lvl_1Fire
+[2023.07.03-15.34.08:240][286]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2023.07.03-15.34.08:240][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_1Fire.lvl_1Fire to /Game/Kirill/UEDPIE_0_lvl_1Fire.lvl_1Fire (0.006123s)
+[2023.07.03-15.34.08:240][286]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.34.08:243][286]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_1Fire.lvl_1Fire up for play (max tick rate 60) at 2023.07.03-18.34.08
+[2023.07.03-15.34.08:245][286]LogWorld: Bringing up level for play took: 0.002524
+[2023.07.03-15.34.08:245][286]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.07.03-15.34.08:245][286]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.028
+[2023.07.03-15.34.08:263][286]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.029
+[2023.07.03-15.34.08:267][286]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.03
+[2023.07.03-15.34.08:275][286]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.07.03-15.34.08:276][286]LogLoad: Took 0.085286 seconds to LoadMap(/Game/Kirill/UEDPIE_0_lvl_1Fire)
+[2023.07.03-15.34.13:174][579]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.031
+[2023.07.03-15.34.13:174][579]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.032
+[2023.07.03-15.34.13:174][579]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.033
+[2023.07.03-15.34.18:178][879]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.034
+[2023.07.03-15.34.18:178][879]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.035
+[2023.07.03-15.34.18:178][879]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.036
+[2023.07.03-15.34.21:532][ 80]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] set level
+[2023.07.03-15.34.21:715][ 91]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] lvl_1Fire
+[2023.07.03-15.34.21:731][ 92]LogNet: Browse: /Game/Kirill/lvl_3Radiation
+[2023.07.03-15.34.21:731][ 92]LogLoad: LoadMap: /Game/Kirill/lvl_3Radiation
+[2023.07.03-15.34.21:731][ 92]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_1Fire
+[2023.07.03-15.34.21:731][ 92]LogWorld: UWorld::CleanupWorld for lvl_1Fire, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.34.21:770][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.07.03-15.34.21:770][ 92]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_3Radiation
+[2023.07.03-15.34.21:775][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004548s)
+[2023.07.03-15.34.21:776][ 92]LogAIModule: Creating AISystem for world lvl_3Radiation
+[2023.07.03-15.34.21:776][ 92]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2023.07.03-15.34.21:776][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_3Radiation.lvl_3Radiation to /Game/Kirill/UEDPIE_0_lvl_3Radiation.lvl_3Radiation (0.005295s)
+[2023.07.03-15.34.21:776][ 92]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.34.21:780][ 92]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_3Radiation.lvl_3Radiation up for play (max tick rate 60) at 2023.07.03-18.34.21
+[2023.07.03-15.34.21:780][ 92]LogWorld: Bringing up level for play took: 0.002511
+[2023.07.03-15.34.21:780][ 92]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.07.03-15.34.21:780][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.037
+[2023.07.03-15.34.21:788][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.038
+[2023.07.03-15.34.21:789][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.039
+[2023.07.03-15.34.21:792][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.04
+[2023.07.03-15.34.21:792][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.041
+[2023.07.03-15.34.21:803][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.042
+[2023.07.03-15.34.21:808][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.34.21:813][ 92]LogLoad: Took 0.081939 seconds to LoadMap(/Game/Kirill/UEDPIE_0_lvl_3Radiation)
+[2023.07.03-15.34.26:727][387]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.043
+[2023.07.03-15.34.26:727][387]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.044
+[2023.07.03-15.34.26:727][387]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.045
+[2023.07.03-15.34.26:727][387]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.046
+[2023.07.03-15.34.26:727][387]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.047
+[2023.07.03-15.34.26:727][387]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.048
+[2023.07.03-15.34.28:010][464]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] set level
+[2023.07.03-15.34.28:242][475]LogPackageName: SearchForPackageOnDisk took   0.047s, but failed to resolve lvl_3Cold.umap.
+[2023.07.03-15.34.28:242][475]LogLevel: Warning: WARNING: The map '/Game/Kirill/lvl_1' does not exist.
+[2023.07.03-15.34.28:242][475]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] lvl_3Radiation
+[2023.07.03-15.34.28:294][476]LogPackageName: SearchForPackageOnDisk took   0.047s, but failed to resolve lvl_3Cold.umap.
+[2023.07.03-15.34.28:294][476]LogNet: Browse: /Game/Kirill/lvl_1
+[2023.07.03-15.34.28:294][476]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Kirill/lvl_1
+[2023.07.03-15.34.28:294][476]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Kirill/lvl_1'. Shutting down PIE.
+[2023.07.03-15.34.28:294][476]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Kirill/lvl_1'. Shutting down PIE.
+[2023.07.03-15.34.28:294][476]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Kirill/lvl_1
+[2023.07.03-15.34.28:294][476]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Kirill/lvl_1'. Shutting down PIE.
+[2023.07.03-15.34.28:294][476]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Kirill/lvl_1'. Shutting down PIE.
+[2023.07.03-15.34.28:295][476]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire' with GeneratedClass '/Game/Kirill/lvl_1Fire.lvl_1Fire_C' with ClassGeneratedBy '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire'
+[2023.07.03-15.34.28:296][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.34.28:296][476]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_3Radiation
+[2023.07.03-15.34.28:296][476]LogWorld: UWorld::CleanupWorld for lvl_3Radiation, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.34.28:308][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.03-15.34.28:308][476]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire' with GeneratedClass '/Game/Kirill/lvl_1Fire.lvl_1Fire_C' with ClassGeneratedBy '/Game/Kirill/lvl_1Fire.lvl_1Fire:PersistentLevel.lvl_1Fire'
+[2023.07.03-15.34.28:344][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.34.28:348][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.07.03-15.34.28:360][476]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2023.07.03-15.34.28:385][477]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.07.03-15.34.55:085][ 78]LogSlate: Window 'Message Log' being destroyed
+[2023.07.03-15.34.55:093][ 78]LogSlate: Window 'Message Log' being destroyed
+[2023.07.03-15.35.02:449][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.07.03-15.35.02:449][510]LogMetaData: Removing '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Kirill/lvl_1Fire.PackageMetaData'
+[2023.07.03-15.35.02:449][510]LogMetaData: Removing '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Kirill/lvl_1Fire.PackageMetaData'
+[2023.07.03-15.35.02:449][510]LogMetaData: Removing '/Game/Kirill/lvl_1.lvl_1_C' ref from Metadata '/Game/Kirill/lvl_1Fire.PackageMetaData'
+[2023.07.03-15.35.02:449][510]LogMetaData: Removing '/Game/Kirill/lvl_1.SKEL_lvl_1_C' ref from Metadata '/Game/Kirill/lvl_1Fire.PackageMetaData'
+[2023.07.03-15.35.02:470][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/lvl_1_BuiltData" FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_1_BuiltData.uasset" SILENT=true
+[2023.07.03-15.35.02:471][510]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_1_BuiltData175F7CE14CA5A78FBF6322BC0606F387.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_1_BuiltData.uasset'
+[2023.07.03-15.35.02:476][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kirill/lvl_1" FILE="../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.03-15.35.02:511][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.07.03-15.35.02:654][510]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/lvl_116DA7EA64F40614E81479F83D27EDEC1.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/lvl_1.umap'
+[2023.07.03-15.35.02:675][510]LogFileHelpers: Saving map 'lvl_1' took 0.199
+[2023.07.03-15.35.02:878][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.07.03-15.35.02:910][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.03-15.35.02:953][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.07.03-15.35.02:987][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.07.03-15.35.04:869][621]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.03-15.35.04:886][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.35.04:886][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.03-15.35.04:886][621]PIE: New page: PIE session: lvl_1 (3 июля 2023 г., 21:35:04)
+[2023.07.03-15.35.04:886][621]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.35.04:891][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005197s)
+[2023.07.03-15.35.04:892][621]LogAIModule: Creating AISystem for world lvl_1
+[2023.07.03-15.35.04:892][621]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2023.07.03-15.35.04:892][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_1.lvl_1 to /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 (0.006167s)
+[2023.07.03-15.35.04:928][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.07.03-15.35.04:936][621]LogInit: XAudio2 using 'Динамики (HyperX Cloud II Wireless)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.07.03-15.35.04:965][621]LogInit: FAudioDevice initialized.
+[2023.07.03-15.35.04:971][621]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.35.04:973][621]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 up for play (max tick rate 60) at 2023.07.03-18.35.04
+[2023.07.03-15.35.04:974][621]LogWorld: Bringing up level for play took: 0.002895
+[2023.07.03-15.35.04:974][621]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.07.03-15.35.04:980][621]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.001
+[2023.07.03-15.35.04:987][621]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.002
+[2023.07.03-15.35.04:991][621]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.003
+[2023.07.03-15.35.04:999][621]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.004
+[2023.07.03-15.35.05:010][621]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] set level
+[2023.07.03-15.35.05:011][621]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.07.03-15.35.05:011][621]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_1 -0,063
+[2023.07.03-15.35.05:011][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.35.09:136][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.07.03-15.35.09:385][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.35.09:385][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.35.09:385][806]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.35.09:385][806]LogWorld: UWorld::CleanupWorld for lvl_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.35.09:401][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.03-15.35.09:401][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.35.09:441][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.35.09:445][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.07.03-15.35.09:487][808]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.07.03-15.35.20:576][473]BlueprintLog: New page: Compile BP_Truba_Module_Rychag
+[2023.07.03-15.35.20:758][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.07.03-15.35.21:124][488]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_RychagD3E4E46F4C02622CEC759BA2F10262D4.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.35.22:028][542]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.03-15.35.22:040][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.35.22:041][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.03-15.35.22:041][542]PIE: New page: PIE session: lvl_1 (3 июля 2023 г., 21:35:22)
+[2023.07.03-15.35.22:041][542]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.35.22:046][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005219s)
+[2023.07.03-15.35.22:047][542]LogAIModule: Creating AISystem for world lvl_1
+[2023.07.03-15.35.22:047][542]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2023.07.03-15.35.22:047][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_1.lvl_1 to /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 (0.006086s)
+[2023.07.03-15.35.22:086][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.07.03-15.35.22:095][542]LogInit: XAudio2 using 'Динамики (HyperX Cloud II Wireless)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.07.03-15.35.22:125][542]LogInit: FAudioDevice initialized.
+[2023.07.03-15.35.22:129][542]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.35.22:132][542]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 up for play (max tick rate 60) at 2023.07.03-18.35.22
+[2023.07.03-15.35.22:133][542]LogWorld: Bringing up level for play took: 0.002965
+[2023.07.03-15.35.22:133][542]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.07.03-15.35.22:135][542]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.001
+[2023.07.03-15.35.22:146][542]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.002
+[2023.07.03-15.35.22:151][542]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.003
+[2023.07.03-15.35.22:155][542]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.004
+[2023.07.03-15.35.22:155][542]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.005
+[2023.07.03-15.35.22:159][542]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_2] 0.006
+[2023.07.03-15.35.22:160][542]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_1] 0.007
+[2023.07.03-15.35.22:161][542]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_1] set level
+[2023.07.03-15.35.22:164][542]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.35.22:169][542]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.07.03-15.35.22:169][542]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_1 1,095
+[2023.07.03-15.35.22:169][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.35.22:345][552]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.35.23:028][593]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.35.23:711][634]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.35.24:395][675]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.35.25:078][716]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.35.25:762][757]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.35.27:012][832]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.008
+[2023.07.03-15.35.27:012][832]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.009
+[2023.07.03-15.35.27:012][832]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.01
+[2023.07.03-15.35.27:012][832]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.011
+[2023.07.03-15.35.27:013][832]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.012
+[2023.07.03-15.35.27:013][832]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_2] 0.013
+[2023.07.03-15.35.27:013][832]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_1] 0.014
+[2023.07.03-15.35.27:128][839]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.35.28:490][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.07.03-15.35.28:986][893]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.35.28:987][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.35.28:987][893]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.35.28:987][893]LogWorld: UWorld::CleanupWorld for lvl_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.35.28:996][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.03-15.35.28:996][893]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.35.29:034][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.35.29:039][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.07.03-15.35.29:103][897]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.07.03-15.35.33:128][138]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Kirill/BP_game_instanse.BP_game_instanse
+[2023.07.03-15.35.38:874][472]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.07.03-15.35.46:335][907]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.03-15.35.46:354][907]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.35.46:354][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.03-15.35.46:354][907]PIE: New page: PIE session: lvl_1 (3 июля 2023 г., 21:35:46)
+[2023.07.03-15.35.46:354][907]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.35.46:359][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005159s)
+[2023.07.03-15.35.46:360][907]LogAIModule: Creating AISystem for world lvl_1
+[2023.07.03-15.35.46:360][907]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2023.07.03-15.35.46:360][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_1.lvl_1 to /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 (0.006032s)
+[2023.07.03-15.35.46:395][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.07.03-15.35.46:403][907]LogInit: XAudio2 using 'Динамики (HyperX Cloud II Wireless)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.07.03-15.35.46:432][907]LogInit: FAudioDevice initialized.
+[2023.07.03-15.35.46:438][907]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.35.46:441][907]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 up for play (max tick rate 60) at 2023.07.03-18.35.46
+[2023.07.03-15.35.46:442][907]LogWorld: Bringing up level for play took: 0.003171
+[2023.07.03-15.35.46:442][907]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.07.03-15.35.46:451][907]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.001
+[2023.07.03-15.35.46:460][907]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.002
+[2023.07.03-15.35.46:460][907]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.35.46:461][907]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.003
+[2023.07.03-15.35.46:465][907]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.004
+[2023.07.03-15.35.46:465][907]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.005
+[2023.07.03-15.35.46:465][907]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.006
+[2023.07.03-15.35.46:470][907]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.007
+[2023.07.03-15.35.46:470][907]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] set level
+[2023.07.03-15.35.46:480][907]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.07.03-15.35.46:480][907]PIE: Play in editor start time for /Game/Kirill/UEDPIE_0_lvl_1 -0,595
+[2023.07.03-15.35.46:480][907]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.35.51:319][196]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.008
+[2023.07.03-15.35.51:319][196]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.009
+[2023.07.03-15.35.51:319][196]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.01
+[2023.07.03-15.35.51:319][196]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.011
+[2023.07.03-15.35.51:319][196]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.012
+[2023.07.03-15.35.51:320][196]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.013
+[2023.07.03-15.35.51:320][196]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.014
+[2023.07.03-15.35.56:321][496]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.015
+[2023.07.03-15.35.56:321][496]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.016
+[2023.07.03-15.35.56:321][496]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.017
+[2023.07.03-15.35.56:321][496]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.018
+[2023.07.03-15.35.56:321][496]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.019
+[2023.07.03-15.35.56:321][496]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.02
+[2023.07.03-15.35.56:321][496]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.021
+[2023.07.03-15.36.01:326][796]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.022
+[2023.07.03-15.36.01:326][796]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.023
+[2023.07.03-15.36.01:326][796]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.024
+[2023.07.03-15.36.01:326][796]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.025
+[2023.07.03-15.36.01:326][796]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.026
+[2023.07.03-15.36.01:326][796]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.027
+[2023.07.03-15.36.01:326][796]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.028
+[2023.07.03-15.36.04:409][981]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'BP_Truba_Module_Rychag' of length 0 in '/Game/Kirill/BP_platforma.BP_platforma_C'!
+[2023.07.03-15.36.06:328][ 96]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.029
+[2023.07.03-15.36.06:328][ 96]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.03
+[2023.07.03-15.36.06:328][ 96]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.031
+[2023.07.03-15.36.06:328][ 96]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.032
+[2023.07.03-15.36.06:328][ 96]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.033
+[2023.07.03-15.36.06:328][ 96]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.034
+[2023.07.03-15.36.06:328][ 96]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.035
+[2023.07.03-15.36.11:329][396]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.036
+[2023.07.03-15.36.11:329][396]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.037
+[2023.07.03-15.36.11:329][396]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V2_C_0] 0.038
+[2023.07.03-15.36.11:329][396]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.039
+[2023.07.03-15.36.11:329][396]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.04
+[2023.07.03-15.36.11:329][396]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.041
+[2023.07.03-15.36.11:329][396]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.042
+[2023.07.03-15.36.13:029][498]LogBlueprintUserMessages: [WBP_GameOver_C_0] lvl_1
+[2023.07.03-15.36.13:029][498]LogNet: Browse: /Game/Kirill/lvl_1
+[2023.07.03-15.36.13:029][498]LogLoad: LoadMap: /Game/Kirill/lvl_1
+[2023.07.03-15.36.13:029][498]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.36.13:030][498]LogWorld: UWorld::CleanupWorld for lvl_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.36.13:070][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.07.03-15.36.13:070][498]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.36.13:075][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004957s)
+[2023.07.03-15.36.13:076][498]LogAIModule: Creating AISystem for world lvl_1
+[2023.07.03-15.36.13:076][498]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2023.07.03-15.36.13:076][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_1.lvl_1 to /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 (0.005669s)
+[2023.07.03-15.36.13:076][498]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.36.13:079][498]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_1.lvl_1 up for play (max tick rate 60) at 2023.07.03-18.36.13
+[2023.07.03-15.36.13:079][498]LogWorld: Bringing up level for play took: 0.002473
+[2023.07.03-15.36.13:079][498]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.07.03-15.36.13:080][498]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.043
+[2023.07.03-15.36.13:081][498]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.044
+[2023.07.03-15.36.13:084][498]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.045
+[2023.07.03-15.36.13:093][498]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.046
+[2023.07.03-15.36.13:094][498]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.047
+[2023.07.03-15.36.13:094][498]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.36.13:097][498]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.048
+[2023.07.03-15.36.13:097][498]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.049
+[2023.07.03-15.36.13:105][498]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_2] 0.05
+[2023.07.03-15.36.13:109][498]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] set level
+[2023.07.03-15.36.13:112][498]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] set level
+[2023.07.03-15.36.13:114][498]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Function_Koef) or object (None)
+[2023.07.03-15.36.13:114][498]LogLoad: Took 0.084914 seconds to LoadMap(/Game/Kirill/UEDPIE_0_lvl_1)
+[2023.07.03-15.36.18:025][793]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.051
+[2023.07.03-15.36.18:025][793]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.052
+[2023.07.03-15.36.18:025][793]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.053
+[2023.07.03-15.36.18:025][793]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.054
+[2023.07.03-15.36.18:025][793]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.055
+[2023.07.03-15.36.18:025][793]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.056
+[2023.07.03-15.36.18:025][793]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.057
+[2023.07.03-15.36.18:025][793]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_2] 0.058
+[2023.07.03-15.36.23:026][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.059
+[2023.07.03-15.36.23:026][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_1] 0.06
+[2023.07.03-15.36.23:026][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_2] 0.061
+[2023.07.03-15.36.23:026][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_3] 0.062
+[2023.07.03-15.36.23:026][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.063
+[2023.07.03-15.36.23:026][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.064
+[2023.07.03-15.36.23:026][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_1] 0.065
+[2023.07.03-15.36.23:026][ 92]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_2] 0.066
+[2023.07.03-15.36.27:843][380]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] set level
+[2023.07.03-15.36.27:859][381]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] set level
+[2023.07.03-15.36.28:027][391]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] lvl_1
+[2023.07.03-15.36.28:043][392]LogNet: Browse: /Game/Kirill/lvl_2Cold
+[2023.07.03-15.36.28:043][392]LogLoad: LoadMap: /Game/Kirill/lvl_2Cold
+[2023.07.03-15.36.28:043][392]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_1
+[2023.07.03-15.36.28:043][392]LogWorld: UWorld::CleanupWorld for lvl_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.36.28:083][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.07.03-15.36.28:083][392]LogPlayLevel: Creating play world package: /Game/Kirill/UEDPIE_0_lvl_2Cold
+[2023.07.03-15.36.28:089][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005180s)
+[2023.07.03-15.36.28:089][392]LogAIModule: Creating AISystem for world lvl_2Cold
+[2023.07.03-15.36.28:089][392]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2023.07.03-15.36.28:089][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kirill/lvl_2Cold.lvl_2Cold to /Game/Kirill/UEDPIE_0_lvl_2Cold.lvl_2Cold (0.005985s)
+[2023.07.03-15.36.28:089][392]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.07.03-15.36.28:092][392]LogWorld: Bringing World /Game/Kirill/UEDPIE_0_lvl_2Cold.lvl_2Cold up for play (max tick rate 60) at 2023.07.03-18.36.28
+[2023.07.03-15.36.28:092][392]LogWorld: Bringing up level for play took: 0.002490
+[2023.07.03-15.36.28:092][392]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.07.03-15.36.28:093][392]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.067
+[2023.07.03-15.36.28:098][392]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.068
+[2023.07.03-15.36.28:101][392]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.069
+[2023.07.03-15.36.28:101][392]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.07
+[2023.07.03-15.36.28:116][392]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_2] 0.071
+[2023.07.03-15.36.28:124][392]LogLoad: Took 0.081533 seconds to LoadMap(/Game/Kirill/UEDPIE_0_lvl_2Cold)
+[2023.07.03-15.36.33:034][687]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_2] 0.072
+[2023.07.03-15.36.33:034][687]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.073
+[2023.07.03-15.36.33:034][687]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.074
+[2023.07.03-15.36.33:034][687]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.075
+[2023.07.03-15.36.33:034][687]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.076
+[2023.07.03-15.36.38:038][987]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_2] 0.077
+[2023.07.03-15.36.38:038][987]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V1_C_0] 0.078
+[2023.07.03-15.36.38:038][987]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_1] 0.079
+[2023.07.03-15.36.38:038][987]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V3_C_0] 0.08
+[2023.07.03-15.36.38:038][987]LogBlueprintUserMessages: [BP_Truba_Module_Rychag_V4_C_0] 0.081
+[2023.07.03-15.36.42:771][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.07.03-15.36.42:871][239]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.36.42:871][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.36.42:871][239]LogWorld: BeginTearingDown for /Game/Kirill/UEDPIE_0_lvl_2Cold
+[2023.07.03-15.36.42:871][239]LogWorld: UWorld::CleanupWorld for lvl_2Cold, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.36.42:884][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.03-15.36.42:884][239]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kirill/lvl_1.lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1' with GeneratedClass '/Game/Kirill/lvl_1.lvl_1_C' with ClassGeneratedBy '/Game/Kirill/lvl_1.lvl_1:PersistentLevel.lvl_1'
+[2023.07.03-15.36.42:928][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.03-15.36.42:933][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.07.03-15.36.42:975][242]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.07.03-15.36.48:409][564]LogSavePackage: Moving '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Saved/BP_Truba_Module_Rychag239B69FC4BB8078D1AE29D81DAF0FBFF.tmp' to '../../../../../../Users/aleks/OneDrive/Документы/GitHub/Runner-Jam/JamRunner/Content/Kirill/Assets/Blueprints/Rychag/BP_Truba_Module_Rychag.uasset'
+[2023.07.03-15.37.08:559][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.07.03-15.37.08:624][137]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.37.08:653][137]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.07.03-15.37.08:653][137]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.37.08:681][137]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.37.08:700][137]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2023.07.03-15.37.08:702][137]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.07.03-15.37.08:702][137]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.37.08:728][137]LogSlate: Window 'JamRunner - Unreal Editor' being destroyed
+[2023.07.03-15.37.08:838][138]Cmd: QUIT_EDITOR
+[2023.07.03-15.37.09:454][138]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.07.03-15.37.09:462][138]LogExit: Preparing to exit.
+[2023.07.03-15.37.09:679][138]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.37.09:721][138]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-15.37.09:721][138]LogExit: Editor shut down
+[2023.07.03-15.37.09:722][138]LogExit: Transaction tracking system shut down
+[2023.07.03-15.37.09:728][138]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.07.03-15.37.09:867][138]LogExit: Object subsystem successfully closed.
+[2023.07.03-15.37.09:884][138]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.07.03-15.37.09:895][138]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (676)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2023.07.03-15.37.09:896][138]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2023.07.03-15.37.09:897][138]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2023.07.03-15.37.11:599][138]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2023.07.03-15.37.11:600][138]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2023.07.03-15.37.11:600][138]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2023.07.03-15.37.11:600][138]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2023.07.03-15.37.11:600][138]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2023.07.03-15.37.11:600][138]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2023.07.03-15.37.11:600][138]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2023.07.03-15.37.11:632][138]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2023.07.03-15.37.11:632][138]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2023.07.03-15.37.11:632][138]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2023.07.03-15.37.11:632][138]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2023.07.03-15.37.11:632][138]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2023.07.03-15.37.11:632][138]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2023.07.03-15.37.11:632][138]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2023.07.03-15.37.11:632][138]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2023.07.03-15.37.11:632][138]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2023.07.03-15.37.11:632][138]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2023.07.03-15.37.11:632][138]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2023.07.03-15.37.11:638][138]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2023.07.03-15.37.11:638][138]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2023.07.03-15.37.11:638][138]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2023.07.03-15.37.11:638][138]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2023.07.03-15.37.11:638][138]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2023.07.03-15.37.11:638][138]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2023.07.03-15.37.11:638][138]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2023.07.03-15.37.11:638][138]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2023.07.03-15.37.11:639][138]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2023.07.03-15.37.11:640][138]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2023.07.03-15.37.11:642][138]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2023.07.03-15.37.11:760][138]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2023.07.03-15.37.11:861][138]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2023.07.03-15.37.11:961][138]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2023.07.03-15.37.11:961][138]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2023.07.03-15.37.11:962][138]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module Core (186)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2023.07.03-15.37.11:963][138]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2023.07.03-15.37.11:964][138]LogDerivedDataCache: Shutdown
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2023.07.03-15.37.11:964][138]LogXGEController: Cleaning working directory: C:/Users/aleks/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2023.07.03-15.37.11:964][138]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2023.07.03-15.37.11:965][138]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2023.07.03-15.37.11:965][138]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2023.07.03-15.37.11:965][138]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2023.07.03-15.37.11:965][138]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2023.07.03-15.37.11:968][138]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2023.07.03-15.37.11:970][138]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2023.07.03-15.37.11:970][138]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2023.07.03-15.37.11:970][138]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2023.07.03-15.37.11:970][138]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2023.07.03-15.37.11:970][138]LogHMD: Freeing OpenVRDLLHandle.
+[2023.07.03-15.37.11:970][138]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2023.07.03-15.37.11:970][138]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2023.07.03-15.37.11:970][138]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2023.07.03-15.37.11:970][138]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2023.07.03-15.37.11:970][138]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2023.07.03-15.37.11:970][138]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2023.07.03-15.37.11:970][138]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2023.07.03-15.37.11:986][138]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2023.07.03-15.37.11:986][138]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.07.03-15.37.11:986][138]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB5A7D4D5-4D51-6922-BA30-11B8609C55FC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=d2ab43d04306753c97561cbfd82751f3%7C7dc6c843532840c984e0038891074c72%7C7b7d06f5-6c1c-466a-ad16-d54fc8b47bc6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2023.07.03-15.37.12:018][138]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2023.07.03-15.37.12:019][138]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2023.07.03-15.37.12:020][138]LogModuleManager: Shutting down and abandoning module Media (51)
+[2023.07.03-15.37.12:020][138]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2023.07.03-15.37.12:020][138]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2023.07.03-15.37.12:020][138]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2023.07.03-15.37.12:020][138]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2023.07.03-15.37.12:020][138]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.07.03-15.37.12:020][138]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.07.03-15.37.12:020][138]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.07.03-15.37.12:020][138]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.07.03-15.37.12:021][138]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.07.03-15.37.12:022][138]LogD3D11RHI: Shutdown
+[2023.07.03-15.37.12:022][138]LogD3D11RHI: CleanupD3DDevice
+[2023.07.03-15.37.12:022][138]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2023.07.03-15.37.12:022][138]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2023.07.03-15.37.12:022][138]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2023.07.03-15.37.12:023][138]LogD3D11RHI: ~FD3D11DynamicRHI
+[2023.07.03-15.37.12:033][138]LogExit: Exiting.
+[2023.07.03-15.37.12:036][138]Log file closed, 07/03/23 18:37:12

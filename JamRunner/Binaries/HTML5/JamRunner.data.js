@@ -18,7 +18,7 @@ Module.expectedDataFileDownloads++;
     } else {
       throw 'using preloaded data can only be done on a web page or in a web worker';
     }
-    var PACKAGE_NAME = 'C:/build/JamRunner/Binaries/HTML5/JamRunner.data';
+    var PACKAGE_NAME = 'E:/Runner-Jam/JamRunner/Binaries/HTML5/JamRunner.data';
     var REMOTE_PACKAGE_BASE = 'JamRunner.data';
     if (typeof Module['locateFilePackage'] === 'function' && !Module['locateFile']) {
       Module['locateFile'] = Module['locateFilePackage'];
@@ -149,10 +149,10 @@ Module['FS_createPath']('/JamRunner/Content', 'Paks', true, true);
           for (var i = 0; i < files.length; ++i) {
             DataRequest.prototype.requests[files[i].filename].onload();
           }
-              Module['removeRunDependency']('datafile_C:/build/JamRunner/Binaries/HTML5/JamRunner.data');
+              Module['removeRunDependency']('datafile_E:/Runner-Jam/JamRunner/Binaries/HTML5/JamRunner.data');
 
     };
-    Module['addRunDependency']('datafile_C:/build/JamRunner/Binaries/HTML5/JamRunner.data');
+    Module['addRunDependency']('datafile_E:/Runner-Jam/JamRunner/Binaries/HTML5/JamRunner.data');
   
     if (!Module.preloadResults) Module.preloadResults = {};
   
@@ -173,6 +173,6 @@ Module['FS_createPath']('/JamRunner/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 91, "filename": "/UE4CommandLine.txt"}, {"start": 91, "audio": 0, "end": 91034754, "filename": "/JamRunner/Content/Paks/JamRunner-HTML5.pak"}], "remote_package_size": 91034754, "package_uuid": "1b5c779f-8ca5-49dc-8cb9-113d60977c03"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 91, "filename": "/UE4CommandLine.txt"}, {"start": 91, "audio": 0, "end": 99985136, "filename": "/JamRunner/Content/Paks/JamRunner-HTML5.pak"}], "remote_package_size": 99985136, "package_uuid": "b4364ce9-7dd8-447b-b574-5b33a489b493"});
 
 })();

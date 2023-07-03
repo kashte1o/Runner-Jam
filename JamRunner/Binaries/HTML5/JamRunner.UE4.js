@@ -54,8 +54,8 @@ const serveCompressedAssets = false;
 // If true, serve out 'UE4Game.data.gz', if false, serve out 'UE4Game.data'.
 //const dataFileIsGzipCompressed = false;
 
-console.log("Emscripten version: C:/Program Files/Epic Games/UE_4.23/Engine/Extras/ThirdPartyNotUE/emsdk/emscripten/1.38.31");
-console.log("Emscripten configuration: C:/Program Files/Epic Games/UE_4.23/Engine/Intermediate/Build/HTML5/.emscripten");
+console.log("Emscripten version: D:/UE_4.23/Engine/Extras/ThirdPartyNotUE/emsdk/emscripten/1.38.31");
+console.log("Emscripten configuration: D:/UE_4.23/Engine/Intermediate/Build/HTML5/.emscripten");
 
 
 
@@ -73,7 +73,7 @@ var Module = {
 	assetDownloadProgress: {}, // Track how many bytes of each needed asset has been downloaded so far.
 
 	UE4_indexedDBName: 'UE4_assetDatabase_JamRunner', // this should be an ascii ID string without special characters that is unique to the project that is being packaged
-	UE4_indexedDBVersion: 202305091254, // Bump this number to invalidate existing IDB storages in browsers.
+	UE4_indexedDBVersion: 202307031616, // Bump this number to invalidate existing IDB storages in browsers.
 };
 
 
